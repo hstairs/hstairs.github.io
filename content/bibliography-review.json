@@ -1,0 +1,570 @@
+{
+  "accessed": "2026-11-05",
+  "scholar_records_reviewed": 110,
+  "original_entries_preserved": 56,
+  "new_entries": 53,
+  "coverage": [
+    {
+      "profile_index": 0,
+      "title": "Interval-Based Relaxation for General Numeric Planning",
+      "target": "original-36"
+    },
+    {
+      "profile_index": 1,
+      "title": "The 2023 international planning competition",
+      "target": "scholar-1"
+    },
+    {
+      "profile_index": 2,
+      "title": "Subgoaling Techniques for Satisficing and Optimal Numeric Planning",
+      "target": "original-22"
+    },
+    {
+      "profile_index": 3,
+      "title": "Unified Planning: Modeling, manipulating and solving AI planning problems in Python",
+      "target": "scholar-3"
+    },
+    {
+      "profile_index": 4,
+      "title": "Heuristics for Numeric Planning via Subgoaling",
+      "target": "original-37"
+    },
+    {
+      "profile_index": 5,
+      "title": "Numeric planning with disjunctive global constraints via SMT",
+      "target": "original-38"
+    },
+    {
+      "profile_index": 6,
+      "title": "Integrated Hybrid Planning and Programmed Control for Real Time UAV Maneuvering.",
+      "target": "original-31"
+    },
+    {
+      "profile_index": 7,
+      "title": "Landmarks for Numeric Planning Problems",
+      "target": "original-35"
+    },
+    {
+      "profile_index": 8,
+      "title": "Search-guidance mechanisms for numeric planning through subgoaling relaxation",
+      "target": "original-28"
+    },
+    {
+      "profile_index": 9,
+      "title": "Effect-Abstraction Based Relaxation for Linear Numeric Planning.",
+      "target": "original-32"
+    },
+    {
+      "profile_index": 10,
+      "title": "Planning for temporally extended goals in pure-past linear temporal logic",
+      "target": "scholar-10"
+    },
+    {
+      "profile_index": 11,
+      "title": "Decidability and complexity of action-based temporal planning over dense time",
+      "target": "original-11"
+    },
+    {
+      "profile_index": 12,
+      "title": "An AI-based planning framework for HAPS in a time-varying environment",
+      "target": "original-26"
+    },
+    {
+      "profile_index": 13,
+      "title": "Safe learning of pddl domains with conditional effects",
+      "target": "scholar-13"
+    },
+    {
+      "profile_index": 14,
+      "title": "On the Compilability of Bounded Numeric Planning.",
+      "target": "original-1"
+    },
+    {
+      "profile_index": 15,
+      "title": "Planning with qualitative action-trajectory constraints in PDDL",
+      "target": "original-13"
+    },
+    {
+      "profile_index": 16,
+      "title": "Plan Repair for Resource Constrained Tasks via Numeric Macro Actions",
+      "target": "original-45"
+    },
+    {
+      "profile_index": 17,
+      "title": "A practical approach to discretised PDDL+ problems by translation to numeric planning",
+      "target": "original-5"
+    },
+    {
+      "profile_index": 18,
+      "title": "On-the-Fly Knowledge Acquisition for Automated Planning Applications: Challenges and Lessons Learnt.",
+      "target": "original-15"
+    },
+    {
+      "profile_index": 19,
+      "title": "On planning with qualitative state-trajectory constraints in PDDL3 by compiling them away",
+      "target": "original-19"
+    },
+    {
+      "profile_index": 20,
+      "title": "A hybrid automated planning approach for urban real-time routing of connected vehicles",
+      "target": "original-17"
+    },
+    {
+      "profile_index": 21,
+      "title": "Deordering and Numeric Macro Actions for Plan Repair",
+      "target": "original-39"
+    },
+    {
+      "profile_index": 22,
+      "title": "Intelligent Belief State Sampling for Conformant Planning",
+      "target": "original-34"
+    },
+    {
+      "profile_index": 23,
+      "title": "CPCES: A planning framework to solve conformant planning problems through a counterexample guided refinement",
+      "target": "original-25"
+    },
+    {
+      "profile_index": 24,
+      "title": "Leveraging artificial intelligence for simulating traffic signal strategies",
+      "target": "original-7"
+    },
+    {
+      "profile_index": 25,
+      "title": "Translations from discretised PDDL+ to numeric planning",
+      "target": "original-20"
+    },
+    {
+      "profile_index": 26,
+      "title": "Action Model Learning with Guarantees",
+      "target": "scholar-26"
+    },
+    {
+      "profile_index": 27,
+      "title": "FOND planning for pure-past linear temporal logic goals",
+      "target": "scholar-27"
+    },
+    {
+      "profile_index": 28,
+      "title": "Decidability and complexity of action-based temporal planning over dense time",
+      "target": "original-11"
+    },
+    {
+      "profile_index": 29,
+      "title": "Numeric kernel for reasoning about plans involving numeric fluents",
+      "target": "original-47"
+    },
+    {
+      "profile_index": 30,
+      "title": "Temporal planning with temporal metric trajectory constraints",
+      "target": "original-29"
+    },
+    {
+      "profile_index": 31,
+      "title": "Dealing with numeric and metric time constraints in PDDL3 via compilation to numeric planning",
+      "target": "scholar-31"
+    },
+    {
+      "profile_index": 32,
+      "title": "Falsification of cyber-physical systems using PDDL+ planning",
+      "target": "original-3"
+    },
+    {
+      "profile_index": 33,
+      "title": "Action-failure resilient planning",
+      "target": "scholar-33"
+    },
+    {
+      "profile_index": 34,
+      "title": "Effective grounding for hybrid planning problems represented in PDDL+",
+      "target": "original-21"
+    },
+    {
+      "profile_index": 35,
+      "title": "Intelligent supervision for robust plan execution",
+      "target": "original-53"
+    },
+    {
+      "profile_index": 36,
+      "title": "An effective polynomial technique for compiling conditional effects away",
+      "target": "scholar-36"
+    },
+    {
+      "profile_index": 37,
+      "title": "The power of reformulation: from validation to planning in PDDL+",
+      "target": "original-12"
+    },
+    {
+      "profile_index": 38,
+      "title": "Proactive and Reactive Reconfiguration for the Robust Execution of Multi Modality Plans",
+      "target": "original-42"
+    },
+    {
+      "profile_index": 39,
+      "title": "Robust plan execution via reconfiguration and replanning",
+      "target": "original-44"
+    },
+    {
+      "profile_index": 40,
+      "title": "Towards a reformulation based approach for efficient numeric planning: Numeric outer entanglements",
+      "target": "original-40"
+    },
+    {
+      "profile_index": 41,
+      "title": "Non-deterministic conformant planning using a counterexample-guided incremental compilation to classical planning",
+      "target": "original-18"
+    },
+    {
+      "profile_index": 42,
+      "title": "Sampling strategies for conformant planning",
+      "target": "original-33"
+    },
+    {
+      "profile_index": 43,
+      "title": "Towards Practical Classical Planning Compilations of Numeric Planning",
+      "target": "scholar-43"
+    },
+    {
+      "profile_index": 44,
+      "title": "Fixing plans for PDDL+ problems: theoretical and practical implications",
+      "target": "original-4"
+    },
+    {
+      "profile_index": 45,
+      "title": "Numerical integration and dynamic discretization in heuristic search planning over hybrid domains",
+      "target": "scholar-45"
+    },
+    {
+      "profile_index": 46,
+      "title": "Reconfiguration and Replanning for robust Execution of Plans Involving Continous and Consumable Resources",
+      "target": "scholar-46"
+    },
+    {
+      "profile_index": 47,
+      "title": "On the notion of plan quality for pddl+",
+      "target": "scholar-47"
+    },
+    {
+      "profile_index": 48,
+      "title": "Taming discretised PDDL+ through multiple discretisations",
+      "target": "scholar-48"
+    },
+    {
+      "profile_index": 49,
+      "title": "Computing superior counter-examples for conformant planning",
+      "target": "original-24"
+    },
+    {
+      "profile_index": 50,
+      "title": "Optimising the stability in plan repair via compilation",
+      "target": "original-10"
+    },
+    {
+      "profile_index": 51,
+      "title": "Exploiting classical planning grounding in hybrid pddl+ planning engines",
+      "target": "scholar-51"
+    },
+    {
+      "profile_index": 52,
+      "title": "Using a hybrid AI-Planner to plan feasible flight paths for HAPS-Like UAVs",
+      "target": "scholar-52"
+    },
+    {
+      "profile_index": 53,
+      "title": "STEPS: PCS results on 1st working prototype",
+      "target": "original-55"
+    },
+    {
+      "profile_index": 54,
+      "title": "A sampling approach to planning with infinite domain control variables",
+      "target": "scholar-54"
+    },
+    {
+      "profile_index": 55,
+      "title": "On using lazy greedy best-first search with subgoaling relaxation in numeric planning problems",
+      "target": "scholar-55"
+    },
+    {
+      "profile_index": 56,
+      "title": "Handling infinite domain parameters in planning through best-first search with delayed partial expansions",
+      "target": "scholar-56"
+    },
+    {
+      "profile_index": 57,
+      "title": "Verification of numeric planning problems through domain dynamic consistency",
+      "target": "original-6"
+    },
+    {
+      "profile_index": 58,
+      "title": "Explaining the Behaviour of Hybrid Systems with PDDL+ Planning.",
+      "target": "original-14"
+    },
+    {
+      "profile_index": 59,
+      "title": "Communication scheduling and plans revision for planetary rovers",
+      "target": "original-56"
+    },
+    {
+      "profile_index": 60,
+      "title": "Learning heuristic functions with graph neural networks for numeric planning",
+      "target": "scholar-60"
+    },
+    {
+      "profile_index": 61,
+      "title": "Shielded FOND: Planning with safety constraints in pure-past linear temporal logic",
+      "target": "scholar-61"
+    },
+    {
+      "profile_index": 62,
+      "title": "On the expressive power of intermediate and conditional effects in temporal planning",
+      "target": "original-8"
+    },
+    {
+      "profile_index": 63,
+      "title": "A Numeric PDDL Based Approach for Temporally Constrained Journey Problems",
+      "target": "original-41"
+    },
+    {
+      "profile_index": 64,
+      "title": "Leapnp: A modular python framework for benchmarking learned heuristics in numeric planning",
+      "target": "scholar-64"
+    },
+    {
+      "profile_index": 65,
+      "title": "Optimised variants of polynomial compilation for conditional effects in classical planning",
+      "target": "scholar-65"
+    },
+    {
+      "profile_index": 66,
+      "title": "A sound (but incomplete) polynomial translation from discretised PDDL+ to numeric planning",
+      "target": "scholar-66"
+    },
+    {
+      "profile_index": 67,
+      "title": "Generating and exploiting cost predictions in heuristic state-space planning",
+      "target": "original-27"
+    },
+    {
+      "profile_index": 68,
+      "title": "Using AI-planning to solve a kinodynamic path planning problem and its application for haps",
+      "target": "scholar-68"
+    },
+    {
+      "profile_index": 69,
+      "title": "Numerical Kernels for Monitoring and Repairing Plans Involving Continuous and Consumable Resources",
+      "target": "original-50"
+    },
+    {
+      "profile_index": 70,
+      "title": "Towards Robust Execution of Mission Plans for Planetary Rovers",
+      "target": "original-52"
+    },
+    {
+      "profile_index": 71,
+      "title": "PPS: An Efficient Java-based Simulator for Time-Discrete PDDL+",
+      "target": "scholar-71"
+    },
+    {
+      "profile_index": 72,
+      "title": "Leveraging AI Planning Models for the Water Management of the Red River Basin in Vietnam",
+      "target": "scholar-72"
+    },
+    {
+      "profile_index": 73,
+      "title": "AI Planning for Hybrid Systems.",
+      "target": "scholar-73"
+    },
+    {
+      "profile_index": 74,
+      "title": "Improving domain-independent heuristic state-space planning via plan cost predictions",
+      "target": "original-16"
+    },
+    {
+      "profile_index": 75,
+      "title": "Towards Plan Recognition in Hybrid Systems.",
+      "target": "scholar-75"
+    },
+    {
+      "profile_index": 76,
+      "title": "ReCon: An online task reconfiguration approach for robust plan execution",
+      "target": "scholar-76"
+    },
+    {
+      "profile_index": 77,
+      "title": "Robust Execution of Rover Plans via Action Modalities Reconfiguration.",
+      "target": "original-46"
+    },
+    {
+      "profile_index": 78,
+      "title": "Involving the Human User in the Control Architecture of an Autonomous Agent",
+      "target": "original-54"
+    },
+    {
+      "profile_index": 79,
+      "title": "Subgoaling Relaxation-based Heuristics for Numeric Planning with Infinite Actions",
+      "target": "scholar-79"
+    },
+    {
+      "profile_index": 80,
+      "title": "Two constraint compilation methods for lifted planning",
+      "target": "scholar-80"
+    },
+    {
+      "profile_index": 81,
+      "title": "Compiling Temporal Numeric Planning into Discrete PDDL+: Extended Version",
+      "target": "scholar-81"
+    },
+    {
+      "profile_index": 82,
+      "title": "Conditional effects in numeric planning reloaded",
+      "target": "scholar-82"
+    },
+    {
+      "profile_index": 83,
+      "title": "Cost-optimal FOND planning as bi-objective best-first search",
+      "target": "scholar-83"
+    },
+    {
+      "profile_index": 84,
+      "title": "BLAST: Bit-Blasting Numbers for Classical Planning",
+      "target": "scholar-84"
+    },
+    {
+      "profile_index": 85,
+      "title": "Improving Resilient Planning Through Landmarks and Regressed State Formulas",
+      "target": "scholar-85"
+    },
+    {
+      "profile_index": 86,
+      "title": "Optimally stable plan repair",
+      "target": "scholar-86"
+    },
+    {
+      "profile_index": 87,
+      "title": "Safe Learning of PDDL Domains with Conditional Effects--Extended Version",
+      "target": "scholar-87"
+    },
+    {
+      "profile_index": 88,
+      "title": "On the Notion of Fixability of PDDL+ Plans",
+      "target": "scholar-88"
+    },
+    {
+      "profile_index": 89,
+      "title": "The Power of Reformulation: PDDL+ Validation Through Planning",
+      "target": "original-12"
+    },
+    {
+      "profile_index": 90,
+      "title": "Continual planning via reconfiguration and goal revision",
+      "target": "original-43"
+    },
+    {
+      "profile_index": 91,
+      "title": "Adapting Planetary Rover Plans via Action Modality Reconfiguration",
+      "target": "original-49"
+    },
+    {
+      "profile_index": 92,
+      "title": "Satisfying Resource Constraints In Space Missions By On-line Task Reconfiguration",
+      "target": "original-51"
+    },
+    {
+      "profile_index": 93,
+      "title": "Compiling Temporal Numeric Planning into Discrete PDDL+",
+      "target": "scholar-93"
+    },
+    {
+      "profile_index": 94,
+      "title": "Learning Numeric Action Models with Anytime Guarantees",
+      "target": "scholar-94"
+    },
+    {
+      "profile_index": 95,
+      "title": "Planning with uncertain action models",
+      "target": "scholar-95"
+    },
+    {
+      "profile_index": 96,
+      "title": "Yet Another Polynomial Compilation for Conditional Effects",
+      "target": "scholar-96"
+    },
+    {
+      "profile_index": 97,
+      "title": "Action-Failure Resilient Planning (Presented at ECAI2023)",
+      "target": "scholar-33 (linked workshop presentation)"
+    },
+    {
+      "profile_index": 98,
+      "title": "Learning Heuristics with Graph Neural Networks for Numeric Planning: A Preliminary Study",
+      "target": "scholar-98"
+    },
+    {
+      "profile_index": 99,
+      "title": "Preface to the Italian Workshop on Planning and Scheduling, RCRA Workshop on Experimental evaluation of algorithms for solving problems with combinatorial explosion, and SPIRIT …",
+      "target": "scholar-99"
+    },
+    {
+      "profile_index": 100,
+      "title": "A Structure-Sensitive Translation from Hybrid to Numeric Planning",
+      "target": "scholar-100"
+    },
+    {
+      "profile_index": 101,
+      "title": "On the Reformulation of Discretised PDDL+ to Numeric Planning",
+      "target": "original-9"
+    },
+    {
+      "profile_index": 102,
+      "title": "Planning with PDDL3 Qualitative Constraints for Cost-Optimal Solutions Through Compilation",
+      "target": "scholar-102"
+    },
+    {
+      "profile_index": 103,
+      "title": "35 Years of Pietro Torasso’s work on diagnosis",
+      "target": "original-30"
+    },
+    {
+      "profile_index": 104,
+      "title": "Additional Experiments for Flex-RR",
+      "target": "original-44"
+    },
+    {
+      "profile_index": 105,
+      "title": "Evaluating Plan Robustness in Presence of Numeric Fluents",
+      "target": "original-48"
+    },
+    {
+      "profile_index": 106,
+      "title": "STEPS (Sistemi e Tecnologie per l’EsPlorazione Spaziale): Predictive and Command System (PCS), results on 1st Demonstration",
+      "target": "original-55"
+    },
+    {
+      "profile_index": 107,
+      "title": "On Translation-Based Approaches from Discrete PDDL+ to Numeric Planning",
+      "target": "scholar-107"
+    },
+    {
+      "profile_index": 108,
+      "title": "PDDL+ Grounding: Can We Take Advantage of Classical Planning Approaches?",
+      "target": "scholar-108"
+    },
+    {
+      "profile_index": 109,
+      "title": "3.30 Effective Hybrid Planners for robotics",
+      "target": "scholar-109"
+    }
+  ],
+  "notes": [
+    "Original entries, links, and correction notes retained verbatim. Journal and conference versions kept distinct.",
+    "The 2025 Artificial Intelligence journal paper with the same title as the ICAPS 2023 paper is a separate added entry.",
+    "Two additional works verified in official proceedings: KR 2026 paper 34 and IJCAI 2024 extended abstract 926.",
+    "Scholar index 56 updated to the IJCAI 2025 proceedings version; arXiv link retained.",
+    "Scholar indices 53 and 106 are alternative STEPS records matching the existing ICES 2010 entry; not duplicated.",
+    "Scholar index 97 is a workshop presentation of the ECAI 2023 paper; linked from that paper.",
+    "Scholar index 104 is supplementary material for the existing Flex-RR/AICOM paper, linked in the software page.",
+    "Yet Another Polynomial Compilation for Conditional Effects (Scholar index 96) may be an alternative title of the SOCS 2024 paper. Retained under Other research outputs rather than asserted to be another archival paper.",
+    "DBLP currently flags an ORCID identity conflict; unrelated extortion/ransomware records were not imported.",
+    "No publication or date was inferred solely from an acceptance announcement in News."
+  ]
+}

@@ -1,0 +1,776 @@
+{
+  "profile": "https://scholar.google.com/citations?user=lgfpklAAAAAJ",
+  "accessed": "2026-11-05",
+  "records": [
+    {
+      "title": "Interval-Based Relaxation for General Numeric Planning",
+      "authors": "E Scala, P Haslum, S Thiebaux, M Ramirez",
+      "venue": "European Conference on Artificial Intelligence, 655-663, 2016",
+      "year": "2016",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:M05iB0D1s5AC"
+    },
+    {
+      "title": "The 2023 international planning competition",
+      "authors": "A Taitler, R Alford, J Espasa, G Behnke, D Fišer, M Gimelfarb, ...",
+      "venue": "AI Magazine 45 (2), 280-296, 2024",
+      "year": "2024",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:_B80troHkn4C"
+    },
+    {
+      "title": "Subgoaling Techniques for Satisficing and Optimal Numeric Planning",
+      "authors": "MR Enrico Scala, Patrik Haslum, Sylvie Thiébaux",
+      "venue": "Journal of Artificial Intelligence Research 68, 691-752, 2020",
+      "year": "2020",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:xtRiw3GOFMkC"
+    },
+    {
+      "title": "Unified Planning: Modeling, manipulating and solving AI planning problems in Python",
+      "authors": "A Micheli, A Bit-Monnot, G Röger, E Scala, A Valentini, L Framba, ...",
+      "venue": "SoftwareX 29, 102012, 2025",
+      "year": "2025",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:WqliGbK-hY8C"
+    },
+    {
+      "title": "Heuristics for Numeric Planning via Subgoaling",
+      "authors": "E Scala, P Haslum, S Thiébaux",
+      "venue": "International Joint Conference of Artificial Intelligence, 2016",
+      "year": "2016",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:ldfaerwXgEUC"
+    },
+    {
+      "title": "Numeric planning with disjunctive global constraints via SMT",
+      "authors": "E Scala, M Ramirez, P Haslum, S Thiébaux",
+      "venue": "Proceedings of the International Conference on Automated Planning and …, 2016",
+      "year": "2016",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:70eg2SAEIzsC"
+    },
+    {
+      "title": "Integrated Hybrid Planning and Programmed Control for Real Time UAV Maneuvering.",
+      "authors": "M Ramirez, M Papasimeon, N Lipovetzky, L Benke, T Miller, AR Pearce, ...",
+      "venue": "AAMAS, 1318-1326, 2018",
+      "year": "2018",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:3s1wT3WcHBgC"
+    },
+    {
+      "title": "Landmarks for Numeric Planning Problems",
+      "authors": "E Scala, P Haslum, D Magazzeni, S Thiébaux",
+      "venue": "IJCAI, 2017",
+      "year": "2017",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:HoB7MX3m0LUC"
+    },
+    {
+      "title": "Search-guidance mechanisms for numeric planning through subgoaling relaxation",
+      "authors": "E Scala, A Saetti, I Serina, AE Gerevini",
+      "venue": "Proceedings of the International Conference on Automated Planning and …, 2020",
+      "year": "2020",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:abG-DnoFyZgC"
+    },
+    {
+      "title": "Effect-Abstraction Based Relaxation for Linear Numeric Planning.",
+      "authors": "D Li, E Scala, P Haslum, S Bogomolov",
+      "venue": "IJCAI, 4787-4793, 2018",
+      "year": "2018",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:rO6llkc54NcC"
+    },
+    {
+      "title": "Planning for temporally extended goals in pure-past linear temporal logic",
+      "authors": "L Bonassi, G De Giacomo, M Favorito, F Fuggitti, AE Gerevini, E Scala",
+      "venue": "Artificial Intelligence, 104409, 2025",
+      "year": "2025",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:mvPsJ3kp5DgC"
+    },
+    {
+      "title": "Decidability and complexity of action-based temporal planning over dense time",
+      "authors": "N Gigante, A Micheli, A Montanari, E Scala",
+      "venue": "Artificial Intelligence 307, 103686, 2022",
+      "year": "2022",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:f2IySw72cVMC"
+    },
+    {
+      "title": "An AI-based planning framework for HAPS in a time-varying environment",
+      "authors": "JJ Kiam, E Scala, MR Javega, A Schulte",
+      "venue": "Proceedings of the International Conference on Automated Planning and …, 2020",
+      "year": "2020",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:NhqRSupF_l8C"
+    },
+    {
+      "title": "Safe learning of pddl domains with conditional effects",
+      "authors": "A Mordoch, E Scala, R Stern, B Juba",
+      "venue": "Proceedings of the International Conference on Automated Planning and …, 2024",
+      "year": "2024",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:wbdj-CoPYUoC"
+    },
+    {
+      "title": "On the Compilability of Bounded Numeric Planning.",
+      "authors": "N Gigante, E Scala",
+      "venue": "IJCAI, 5341-5349, 2023",
+      "year": "2023",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:XiVPGOgt02cC"
+    },
+    {
+      "title": "Planning with qualitative action-trajectory constraints in PDDL",
+      "authors": "L Bonassi, AE Gerevini, E Scala",
+      "venue": "IJCAI, 4606-4613, 2022",
+      "year": "2022",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:VOx2b1Wkg3QC"
+    },
+    {
+      "title": "Plan Repair for Resource Constrained Tasks via Numeric Macro Actions",
+      "authors": "E Scala",
+      "venue": "Twenty-Fourth International Conference on Automated Planning and Scheduling …, 2014",
+      "year": "2014",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:YFjsv_pBGBYC"
+    },
+    {
+      "title": "A practical approach to discretised PDDL+ problems by translation to numeric planning",
+      "authors": "F Percassi, E Scala, M Vallati",
+      "venue": "Journal of Artificial Intelligence Research 76, 115-162, 2023",
+      "year": "2023",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:eflP2zaiRacC"
+    },
+    {
+      "title": "On-the-Fly Knowledge Acquisition for Automated Planning Applications: Challenges and Lessons Learnt.",
+      "authors": "S Bhatnagar, S Mund, E Scala, K McCabe, TL McCluskey, M Vallati",
+      "venue": "ICAART (2), 387-397, 2022",
+      "year": "2022",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:tS2w5q8j5-wC"
+    },
+    {
+      "title": "On planning with qualitative state-trajectory constraints in PDDL3 by compiling them away",
+      "authors": "L Bonassi, AE Gerevini, F Percassi, E Scala",
+      "venue": "Proceedings of the International Conference on Automated Planning and …, 2021",
+      "year": "2021",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:KxtntwgDAa4C"
+    },
+    {
+      "title": "A hybrid automated planning approach for urban real-time routing of connected vehicles",
+      "authors": "M Vallati, E Scala, L Chrpa",
+      "venue": "2021 IEEE International Intelligent Transportation Systems Conference (ITSC …, 2021",
+      "year": "2021",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:OU6Ihb5iCvQC"
+    },
+    {
+      "title": "Deordering and Numeric Macro Actions for Plan Repair",
+      "authors": "E Scala, P Torasso",
+      "venue": "",
+      "year": "2015",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:J_g5lzvAfSwC"
+    },
+    {
+      "title": "Intelligent Belief State Sampling for Conformant Planning",
+      "authors": "A Grastien, E Scala",
+      "venue": "IJCAI, 2017",
+      "year": "2017",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:SeFeTyx0c_EC"
+    },
+    {
+      "title": "CPCES: A planning framework to solve conformant planning problems through a counterexample guided refinement",
+      "authors": "A Grastien, E Scala",
+      "venue": "Artificial Intelligence 284, 103271, 2020",
+      "year": "2020",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:b0M2c_1WBrUC"
+    },
+    {
+      "title": "Leveraging artificial intelligence for simulating traffic signal strategies",
+      "authors": "S Bhatnagar, R Guo, K McCabe, TL McCluskey, E Scala, M Vallati",
+      "venue": "2022 IEEE 25th International Conference on Intelligent Transportation …, 2022",
+      "year": "2022",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:LPZeul_q3PIC"
+    },
+    {
+      "title": "Translations from discretised PDDL+ to numeric planning",
+      "authors": "F Percassi, E Scala, M Vallati",
+      "venue": "Proceedings of the International Conference on Automated Planning and …, 2021",
+      "year": "2021",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:nb7KW1ujOQ8C"
+    },
+    {
+      "title": "Action Model Learning with Guarantees",
+      "authors": "D Aineto, E Scala",
+      "venue": "Proceedings of the 21st International Conference on Principles of Knowledge …, 2024",
+      "year": "2024",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:JoZmwDi-zQgC"
+    },
+    {
+      "title": "FOND planning for pure-past linear temporal logic goals",
+      "authors": "L Bonassi, G De Giacomo, M Favorito, F Fuggitti, AE Gerevini, E Scala",
+      "venue": "ECAI 2023: 26th European Conference on Artificial Intelligence, September 30 …, 2023",
+      "year": "2023",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:WA5NYHcadZ8C"
+    },
+    {
+      "title": "Decidability and complexity of action-based temporal planning over dense time",
+      "authors": "N Gigante, A Micheli, A Montanari, E Scala",
+      "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 34 (06), 9859-9866, 2020",
+      "year": "2020",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:V3AGJWp-ZtQC"
+    },
+    {
+      "title": "Numeric kernel for reasoning about plans involving numeric fluents",
+      "authors": "E Scala",
+      "venue": "Congress of the Italian Association for Artificial Intelligence, 263-275, 2013",
+      "year": "2013",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:YsMSGLbcyi4C"
+    },
+    {
+      "title": "Temporal planning with temporal metric trajectory constraints",
+      "authors": "A Micheli, E Scala",
+      "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 33 (01), 7675-7682, 2019",
+      "year": "2019",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:yD5IFk8b50cC"
+    },
+    {
+      "title": "Dealing with numeric and metric time constraints in PDDL3 via compilation to numeric planning",
+      "authors": "L Bonassi, AE Gerevini, E Scala",
+      "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 38 (18), 20036 …, 2024",
+      "year": "2024",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:Y5dfb0dijaUC"
+    },
+    {
+      "title": "Falsification of cyber-physical systems using PDDL+ planning",
+      "authors": "D Aineto, E Scala, E Onaindia, I Serina",
+      "venue": "Proceedings of the International Conference on Automated Planning and …, 2023",
+      "year": "2023",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:1qzjygNMrQYC"
+    },
+    {
+      "title": "Action-failure resilient planning",
+      "authors": "D Aineto, A Gaudenzi, A Gerevini, A Rovetta, E Scala, I Serina",
+      "venue": "ECAI 2023: 26th European Conference on Artificial Intelligence, September 30 …, 2023",
+      "year": "2023",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:HE397vMXCloC"
+    },
+    {
+      "title": "Effective grounding for hybrid planning problems represented in PDDL+",
+      "authors": "E Scala, M Vallati",
+      "venue": "The Knowledge Engineering Review 36, e9, 2021",
+      "year": "2021",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:dshw04ExmUIC"
+    },
+    {
+      "title": "Intelligent supervision for robust plan execution",
+      "authors": "R Micalizio, E Scala, P Torasso",
+      "venue": "Congress of the Italian Association for Artificial Intelligence, 151-163, 2011",
+      "year": "2011",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:qjMakFHDy7sC"
+    },
+    {
+      "title": "An effective polynomial technique for compiling conditional effects away",
+      "authors": "AE Gerevini, F Percassi, E Scala",
+      "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 38 (18), 20104 …, 2024",
+      "year": "2024",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:eMMeJKvmdy0C"
+    },
+    {
+      "title": "The power of reformulation: from validation to planning in PDDL+",
+      "authors": "F Percassi, E Scala, M Vallati",
+      "venue": "Proceedings of the International Conference on Automated Planning and …, 2022",
+      "year": "2022",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:8AbLer7MMksC"
+    },
+    {
+      "title": "Proactive and Reactive Reconfiguration for the Robust Execution of Multi Modality Plans",
+      "authors": "E Scala, P Torasso",
+      "venue": "21st European Conference on Artificial Intelligence, ECAI 2014 263, 783 - 788, 2014",
+      "year": "2014",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:RYcK_YlVTxYC"
+    },
+    {
+      "title": "Robust plan execution via reconfiguration and replanning",
+      "authors": "E Scala, R Micalizio, P Torasso",
+      "venue": "AI Communications 28 (3), 479-509, 2015",
+      "year": "2015",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:NMxIlDl6LWMC"
+    },
+    {
+      "title": "Towards a reformulation based approach for efficient numeric planning: Numeric outer entanglements",
+      "authors": "L Chrpa, E Scala, M Vallati",
+      "venue": "Proceedings of the International Symposium on Combinatorial Search 6 (1 …, 2015",
+      "year": "2015",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:NaGl4SEjCO4C"
+    },
+    {
+      "title": "Non-deterministic conformant planning using a counterexample-guided incremental compilation to classical planning",
+      "authors": "E Scala, A Grastien",
+      "venue": "Proceedings of the International Conference on Automated Planning and …, 2021",
+      "year": "2021",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:UxriW0iASnsC"
+    },
+    {
+      "title": "Sampling strategies for conformant planning",
+      "authors": "A Grastien, E Scala",
+      "venue": "Proceedings of the International Conference on Automated Planning and …, 2018",
+      "year": "2018",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:u_35RYKgDlwC"
+    },
+    {
+      "title": "Towards Practical Classical Planning Compilations of Numeric Planning",
+      "authors": "L Bonassi, F Percassi, E Scala",
+      "venue": "39th Annual AAAI Conference on Artificial Intelligence, 2025",
+      "year": "2025",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:LjlpjdlvIbIC"
+    },
+    {
+      "title": "Fixing plans for PDDL+ problems: theoretical and practical implications",
+      "authors": "F Percassi, E Scala, M Vallati",
+      "venue": "Proceedings of the International Conference on Automated Planning and …, 2023",
+      "year": "2023",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:q3oQSFYPqjQC"
+    },
+    {
+      "title": "Numerical integration and dynamic discretization in heuristic search planning over hybrid domains",
+      "authors": "M Ramirez, E Scala, P Haslum, S Thiebaux",
+      "venue": "arXiv preprint arXiv:1703.04232, 2017",
+      "year": "2017",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:g5m5HwL7SMYC"
+    },
+    {
+      "title": "Reconfiguration and Replanning for robust Execution of Plans Involving Continous and Consumable Resources",
+      "authors": "E Scala",
+      "venue": "PhD thesis, Department of Computer Science-Turin, 2013",
+      "year": "2013",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:M3NEmzRMIkIC"
+    },
+    {
+      "title": "On the notion of plan quality for pddl+",
+      "authors": "F Percassi, E Scala, M Vallati",
+      "venue": "Proceedings of the International Conference on Automated Planning and …, 2025",
+      "year": "2025",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:ZuybSZzF8UAC"
+    },
+    {
+      "title": "Taming discretised PDDL+ through multiple discretisations",
+      "authors": "M Cardellini, M Maratea, F Percassi, E Scala, M Vallati",
+      "venue": "Proceedings of the International Conference on Automated Planning and …, 2024",
+      "year": "2024",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:kRWSkSYxWN8C"
+    },
+    {
+      "title": "Computing superior counter-examples for conformant planning",
+      "authors": "X Zhang, A Grastien, E Scala",
+      "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 34 (06), 10017 …, 2020",
+      "year": "2020",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:_xSYboBqXhAC"
+    },
+    {
+      "title": "Optimising the stability in plan repair via compilation",
+      "authors": "A Saetti, E Scala",
+      "venue": "Proceedings of the International Conference on Automated Planning and …, 2022",
+      "year": "2022",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:5Ul4iDaHHb8C"
+    },
+    {
+      "title": "Exploiting classical planning grounding in hybrid pddl+ planning engines",
+      "authors": "E Scala, M Vallati",
+      "venue": "2020 IEEE 32nd International Conference on Tools with Artificial …, 2020",
+      "year": "2020",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:CHSYGLWDkRkC"
+    },
+    {
+      "title": "Using a hybrid AI-Planner to plan feasible flight paths for HAPS-Like UAVs",
+      "authors": "JJ Kiam, E Scala, M Ramirez, A Schulte",
+      "venue": "Workshop on Planning and Robotics (PlanRob) at ICAPS, 2018",
+      "year": "2018",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:geHnlv5EZngC"
+    },
+    {
+      "title": "STEPS: PCS results on 1st working prototype",
+      "authors": "L Carlone, R Micalizio, G Nuzzolo, E Scala, D Tedone",
+      "venue": "Titolo volume non avvalorato, 2010",
+      "year": "2010",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:zYLM7Y9cAGgC"
+    },
+    {
+      "title": "A sampling approach to planning with infinite domain control variables",
+      "authors": "A Aso-Mollar, D Aineto, E Scala, E Onaindia",
+      "venue": "Proceedings of the International Conference on Automated Planning and …, 2025",
+      "year": "2025",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:1yQoGdGgb4wC"
+    },
+    {
+      "title": "On using lazy greedy best-first search with subgoaling relaxation in numeric planning problems",
+      "authors": "E Scala, L Bonassi",
+      "venue": "Proceedings of the International Conference on Automated Planning and …, 2025",
+      "year": "2025",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:VL0QpB8kHFEC"
+    },
+    {
+      "title": "Handling infinite domain parameters in planning through best-first search with delayed partial expansions",
+      "authors": "Á Aso-Mollar, D Aineto, E Scala, E Onaindia",
+      "venue": "arXiv preprint arXiv:2509.03953, 2025",
+      "year": "2025",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:UHK10RUVsp4C"
+    },
+    {
+      "title": "Verification of numeric planning problems through domain dynamic consistency",
+      "authors": "E Scala, TL McCluskey, M Vallati",
+      "venue": "International Conference of the Italian Association for Artificial …, 2022",
+      "year": "2022",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:D_sINldO8mEC"
+    },
+    {
+      "title": "Explaining the Behaviour of Hybrid Systems with PDDL+ Planning.",
+      "authors": "D Aineto, E Onaindia, M Ramírez, E Scala, I Serina",
+      "venue": "IJCAI, 4567-4573, 2022",
+      "year": "2022",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:fQNAKQ3IYiAC"
+    },
+    {
+      "title": "Communication scheduling and plans revision for planetary rovers",
+      "authors": "I Musso, R Micalizio, E Scala, G Martucci, E Pigozzi, P Rosazza",
+      "venue": "International Symposium on Artificial Intelligence, Robotics and Automation …, 2010",
+      "year": "2010",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:d1gkVwhDpl0C"
+    },
+    {
+      "title": "Learning heuristic functions with graph neural networks for numeric planning",
+      "authors": "V Borelli, A Gerevini, E Scala, I Serina",
+      "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 40 (43), 36172 …, 2026",
+      "year": "2026",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:dQ2og3OwTAUC"
+    },
+    {
+      "title": "Shielded FOND: Planning with safety constraints in pure-past linear temporal logic",
+      "authors": "L Bonassi, G De Giacomo, AE Gerevini, E Scala",
+      "venue": "ECAI 2024: 27th European Conference on Artificial Intelligence, 19–24 …, 2024",
+      "year": "2024",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:eq2jaN3J8jMC"
+    },
+    {
+      "title": "On the expressive power of intermediate and conditional effects in temporal planning",
+      "authors": "N Gigante, A Micheli, E Scala",
+      "venue": "Proceedings of the International Conference on Principles of Knowledge …, 2022",
+      "year": "2022",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:eJXPG6dFmWUC"
+    },
+    {
+      "title": "A Numeric PDDL Based Approach for Temporally Constrained Journey Problems",
+      "authors": "SC Caff, F Di Mauro, E Scala",
+      "venue": "26th (IEEE) International Conference on Tools with Artificial Intelligence …, 2014",
+      "year": "2014",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:O3NaXMp0MMsC"
+    },
+    {
+      "title": "Leapnp: A modular python framework for benchmarking learned heuristics in numeric planning",
+      "authors": "V Borelli, AE Gerevini, E Scala, I Serina",
+      "venue": "Future Internet 18 (2), 93, 2026",
+      "year": "2026",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:uLbwQdceFCQC"
+    },
+    {
+      "title": "Optimised variants of polynomial compilation for conditional effects in classical planning",
+      "authors": "F Percassi, E Scala, AE Gerevini",
+      "venue": "Proceedings of the International Symposium on Combinatorial Search 17, 100-108, 2024",
+      "year": "2024",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:PELIpwtuRlgC"
+    },
+    {
+      "title": "A sound (but incomplete) polynomial translation from discretised PDDL+ to numeric planning",
+      "authors": "F Percassi, E Scala, M Vallati",
+      "venue": "International Conference of the Italian Association for Artificial …, 2021",
+      "year": "2021",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:u9iWguZQMMsC"
+    },
+    {
+      "title": "Generating and exploiting cost predictions in heuristic state-space planning",
+      "authors": "F Percassi, AE Gerevini, E Scala, I Serina, M Vallati",
+      "venue": "Proceedings of the International Conference on Automated Planning and …, 2020",
+      "year": "2020",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:EUQCXRtRnyEC"
+    },
+    {
+      "title": "Using AI-planning to solve a kinodynamic path planning problem and its application for haps",
+      "authors": "JJ Kiam, A Schulte, E Scala",
+      "venue": "International Conference on Intelligent Human Systems Integration, 758-764, 2019",
+      "year": "2019",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:cFHS6HbyZ2cC"
+    },
+    {
+      "title": "Numerical Kernels for Monitoring and Repairing Plans Involving Continuous and Consumable Resources",
+      "authors": "E Scala",
+      "venue": "International Conference on Agents and Artificial Intelligence (ICAART-13) 2 …, 2013",
+      "year": "2013",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:u5HHmVD_uO8C"
+    },
+    {
+      "title": "Towards Robust Execution of Mission Plans for Planetary Rovers",
+      "authors": "R Micalizio, E Scala, P Torasso",
+      "venue": "Acta Futura 5, 53-64, 2012",
+      "year": "2012",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:IjCSPb-OGe4C"
+    },
+    {
+      "title": "PPS: An Efficient Java-based Simulator for Time-Discrete PDDL+",
+      "authors": "E Scala, F Percassi, M Vallati",
+      "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 40 (48), 41682 …, 2026",
+      "year": "2026",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:Fu2w8maKXqMC"
+    },
+    {
+      "title": "Leveraging AI Planning Models for the Water Management of the Red River Basin in Vietnam",
+      "authors": "D Aineto, M Battisti, HY Nguyen, N Le An, R Ranzi, E Scala, I Serina",
+      "venue": "The International Conference on Data Science and Emerging Technologies, 569-583, 2024",
+      "year": "2024",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:NJ774b8OgUMC"
+    },
+    {
+      "title": "AI Planning for Hybrid Systems.",
+      "authors": "E Scala",
+      "venue": "IJCAI, 7045-7050, 2023",
+      "year": "2023",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:bnK-pcrLprsC"
+    },
+    {
+      "title": "Improving domain-independent heuristic state-space planning via plan cost predictions",
+      "authors": "F Percassi, AE Gerevini, E Scala, I Serina, M Vallati",
+      "venue": "Journal of Experimental & Theoretical Artificial Intelligence 35 (6), 849-875, 2023",
+      "year": "2023",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:uWQEDVKXjbEC"
+    },
+    {
+      "title": "Towards Plan Recognition in Hybrid Systems.",
+      "authors": "D Aineto, E Onaindia, M Ramírez, E Scala, I Serina",
+      "venue": "IPS-RCRA@ AI* IA, 2020",
+      "year": "2020",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:P5F9QuxV20EC"
+    },
+    {
+      "title": "ReCon: An online task reconfiguration approach for robust plan execution",
+      "authors": "E Scala, R Micalizio, P Torasso",
+      "venue": "International Conference on Agents and Artificial Intelligence, 262-279, 2014",
+      "year": "2014",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:lSLTfruPkqcC"
+    },
+    {
+      "title": "Robust Execution of Rover Plans via Action Modalities Reconfiguration.",
+      "authors": "E Scala, R Micalizio, P Torasso",
+      "venue": "ICAART (1), 142-152, 2014",
+      "year": "2014",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:hMod-77fHWUC"
+    },
+    {
+      "title": "Involving the Human User in the Control Architecture of an Autonomous Agent",
+      "authors": "R Micalizio, G Nuzzolo, E Scala, P Torasso",
+      "venue": "IFIP International Conference on Artificial Intelligence in Theory and …, 2010",
+      "year": "2010",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:2osOgNQ5qMEC"
+    },
+    {
+      "title": "Subgoaling Relaxation-based Heuristics for Numeric Planning with Infinite Actions",
+      "authors": "Á Aso-Mollar, D Aineto, E Scala, E Onaindia",
+      "venue": "Proceedings of the International Conference on Automated Planning and …, 2026",
+      "year": "2026",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:ZfRJV9d4-WMC"
+    },
+    {
+      "title": "Two constraint compilation methods for lifted planning",
+      "authors": "P Mantenoglou, L Bonassi, E Scala, PZ Dos Martires",
+      "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 40 (43), 36325 …, 2026",
+      "year": "2026",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:tKAzc9rXhukC"
+    },
+    {
+      "title": "Compiling Temporal Numeric Planning into Discrete PDDL+: Extended Version",
+      "authors": "A Micheli, E Scala, A Valentini",
+      "venue": "arXiv preprint arXiv:2603.12188, 2026",
+      "year": "2026",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:kzcrU_BdoSEC"
+    },
+    {
+      "title": "Conditional effects in numeric planning reloaded",
+      "authors": "L Bonassi, JE Arxer, F Percassi, E Scala",
+      "venue": "ECAI 2025: 28th European Conference on Artificial Intelligence 25-30 October …, 2025",
+      "year": "2025",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:PR6Y55bgFSsC"
+    },
+    {
+      "title": "Cost-optimal FOND planning as bi-objective best-first search",
+      "authors": "D Aineto, E Scala",
+      "venue": "Proceedings of the International Conference on Automated Planning and …, 2025",
+      "year": "2025",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:N5tVd3kTz84C"
+    },
+    {
+      "title": "BLAST: Bit-Blasting Numbers for Classical Planning",
+      "authors": "L Bonassi, F Percassi, E Scala",
+      "venue": "Proceedings of the International Symposium on Combinatorial Search 18, 249-250, 2025",
+      "year": "2025",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:hkOj_22Ku90C"
+    },
+    {
+      "title": "Improving Resilient Planning Through Landmarks and Regressed State Formulas",
+      "authors": "A Rovetta, D Aineto, AE Gerevini, E Scala, I Serina",
+      "venue": "ECAI 2025: 28th European Conference on Artificial Intelligence 25-30 October …, 2025",
+      "year": "2025",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:_Re3VWB3Y0AC"
+    },
+    {
+      "title": "Optimally stable plan repair",
+      "authors": "A Saetti, E Scala",
+      "venue": "The Knowledge Engineering Review 40, e7, 2025",
+      "year": "2025",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:JQOojiI6XY0C"
+    },
+    {
+      "title": "Safe Learning of PDDL Domains with Conditional Effects--Extended Version",
+      "authors": "A Mordoch, E Scala, R Stern, B Juba",
+      "venue": "arXiv preprint arXiv:2403.15251, 2024",
+      "year": "2024",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:tkaPQYYpVKoC"
+    },
+    {
+      "title": "On the Notion of Fixability of PDDL+ Plans",
+      "authors": "F Percassi, E Scala, M Vallati",
+      "venue": "Proceedings of the International Symposium on Combinatorial Search 16, 177-178, 2023",
+      "year": "2023",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:J-pR_7NvFogC"
+    },
+    {
+      "title": "The Power of Reformulation: PDDL+ Validation Through Planning",
+      "authors": "F Percassi, E Scala, M Vallati",
+      "venue": "32nd International Conference on Automated Planning and Scheduling, 2022",
+      "year": "2022",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:4fKUyHm3Qg0C"
+    },
+    {
+      "title": "Continual planning via reconfiguration and goal revision",
+      "authors": "E Scala",
+      "venue": "Working notes of the ICAPS Workshop on Planning and Robotics, 2014",
+      "year": "2014",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:RGFaLdJalmkC"
+    },
+    {
+      "title": "Adapting Planetary Rover Plans via Action Modality Reconfiguration",
+      "authors": "E Scala, R Micalizio, P Torasso",
+      "venue": "Scheduling and Planning Applications woRKshop (SPARK-2013), 41-48, 2013",
+      "year": "2013",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:UeHWp8X0CEIC"
+    },
+    {
+      "title": "Satisfying Resource Constraints In Space Missions By On-line Task Reconfiguration",
+      "authors": "R Micalizio, E Scala, P Torasso",
+      "venue": "International Symposium on Artificial Intelligence, Robotics and Automation …, 2012",
+      "year": "2012",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:u-x6o8ySG0sC"
+    },
+    {
+      "title": "Compiling Temporal Numeric Planning into Discrete PDDL+",
+      "authors": "A Micheli, E Scala, A Valentini",
+      "venue": "Proceedings of the International Conference on Automated Planning and …, 2026",
+      "year": "2026",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:W5xh706n7nkC"
+    },
+    {
+      "title": "Learning Numeric Action Models with Anytime Guarantees",
+      "authors": "D Aineto, E Scala",
+      "venue": "Proceedings of the International Conference on Automated Planning and …, 2026",
+      "year": "2026",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:_Ybze24A_UAC"
+    },
+    {
+      "title": "Planning with uncertain action models",
+      "authors": "F Percassi, A Saetti, E Scala",
+      "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 40 (43), 36343 …, 2026",
+      "year": "2026",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:7T2F9Uy0os0C"
+    },
+    {
+      "title": "Yet Another Polynomial Compilation for Conditional Effects",
+      "authors": "F Percassi, E Scala, AE Gerevini",
+      "venue": "17th International Symposium on Combinatorial Search, 2024",
+      "year": "2024",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:9vf0nzSNQJEC"
+    },
+    {
+      "title": "Action-Failure Resilient Planning (Presented at ECAI2023)",
+      "authors": "D Aineto, A Gaudenzi, A Gerevini, A Rovetta, E Scala, I Serina",
+      "venue": "",
+      "year": "2024",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:SdhP9T11ey4C"
+    },
+    {
+      "title": "Learning Heuristics with Graph Neural Networks for Numeric Planning: A Preliminary Study",
+      "authors": "V Borelli, AE Gerevini, E Scala, I Serina",
+      "venue": "CEUR WORKSHOP PROCEEDINGS 3914, 2024",
+      "year": "2024",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:dTyEYWd-f8wC"
+    },
+    {
+      "title": "Preface to the Italian Workshop on Planning and Scheduling, RCRA Workshop on Experimental evaluation of algorithms for solving problems with combinatorial explosion, and SPIRIT …",
+      "authors": "R De Benedictis, M Castiglioni, D Ferraioli, V Malvone, M Maratea, ...",
+      "venue": "CEUR Workshop Proceedings 3585, 1-N/A, 2023",
+      "year": "2023",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:AXPGKjj_ei8C"
+    },
+    {
+      "title": "A Structure-Sensitive Translation from Hybrid to Numeric Planning",
+      "authors": "F Percassi, E Scala, M Vallati",
+      "venue": "International Conference of the Italian Association for Artificial …, 2023",
+      "year": "2023",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&cstart=100&pagesize=100&citation_for_view=lgfpklAAAAAJ:5ugPr518TE4C"
+    },
+    {
+      "title": "On the Reformulation of Discretised PDDL+ to Numeric Planning",
+      "authors": "F Percassi, E Scala, M Vallati",
+      "venue": "Proceedings of the International Symposium on Combinatorial Search 15 (1 …, 2022",
+      "year": "2022",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&cstart=100&pagesize=100&citation_for_view=lgfpklAAAAAJ:B3FOqHPlNUQC"
+    },
+    {
+      "title": "Planning with PDDL3 Qualitative Constraints for Cost-Optimal Solutions Through Compilation",
+      "authors": "L Bonassi, E Scala, AE Gerevini",
+      "venue": "CEUR WORKSHOP PROCEEDINGS 3345, 2022",
+      "year": "2022",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&cstart=100&pagesize=100&citation_for_view=lgfpklAAAAAJ:BrmTIyaxlBUC"
+    },
+    {
+      "title": "35 Years of Pietro Torasso’s work on diagnosis",
+      "authors": "L Console, D Magro, R Micalizio, E Scala, D Theseider Dupré, G Torta",
+      "venue": "Intelligenza Artificiale 12 (1), 31-40, 2018",
+      "year": "2018",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&cstart=100&pagesize=100&citation_for_view=lgfpklAAAAAJ:fPk4N6BV_jEC"
+    },
+    {
+      "title": "Additional Experiments for Flex-RR",
+      "authors": "E Scala, R Micalizio, P Torasso",
+      "venue": "",
+      "year": "2014",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&cstart=100&pagesize=100&citation_for_view=lgfpklAAAAAJ:35N4QoGY0k4C"
+    },
+    {
+      "title": "Evaluating Plan Robustness in Presence of Numeric Fluents",
+      "authors": "E Scala",
+      "venue": "Italian Workshop on Planning and Scheduling (IPS-2013), 67-70, 2013",
+      "year": "2013",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&cstart=100&pagesize=100&citation_for_view=lgfpklAAAAAJ:blknAaTinKkC"
+    },
+    {
+      "title": "STEPS (Sistemi e Tecnologie per l’EsPlorazione Spaziale): Predictive and Command System (PCS), results on 1st Demonstration",
+      "authors": "L Carlone, R Micalizio, G Nuzzolo, E Scala, D Tedone",
+      "venue": "Proceedings of the 40th International Conference on Environmental Systems, 1-17, 2010",
+      "year": "2010",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&cstart=100&pagesize=100&citation_for_view=lgfpklAAAAAJ:D03iK_w7-QYC"
+    },
+    {
+      "title": "On Translation-Based Approaches from Discrete PDDL+ to Numeric Planning",
+      "authors": "F Percassi, E Scala, M Vallati",
+      "venue": "",
+      "year": "",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&cstart=100&pagesize=100&citation_for_view=lgfpklAAAAAJ:sSrBHYA8nusC"
+    },
+    {
+      "title": "PDDL+ Grounding: Can We Take Advantage of Classical Planning Approaches?",
+      "authors": "E Scala, M Vallati",
+      "venue": "",
+      "year": "",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&cstart=100&pagesize=100&citation_for_view=lgfpklAAAAAJ:1sJd4Hv_s6UC"
+    },
+    {
+      "title": "3.30 Effective Hybrid Planners for robotics",
+      "authors": "E Scala",
+      "venue": "Planning and Robotics, 66, 0",
+      "year": "",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&cstart=100&pagesize=100&citation_for_view=lgfpklAAAAAJ:pqnbT2bcN3wC"
+    }
+  ]
+}

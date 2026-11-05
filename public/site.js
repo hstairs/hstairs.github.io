@@ -10,7 +10,7 @@ document.querySelectorAll('[data-publication-search]').forEach(input => {
       entry.hidden = !terms.every(term => entry.textContent.toLocaleLowerCase().includes(term));
       if (!entry.hidden) count++;
     });
-    status.textContent = `${count} of ${entries.length} publications`;
+    status.textContent = `${count} of ${entries.length} entries`;
   };
   input.addEventListener('input', update);
   input.parentElement.hidden = false;

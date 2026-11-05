@@ -3,7 +3,7 @@ from pathlib import Path
 import base64, html, json, re, sys
 from datetime import datetime
 sys.path.insert(0,str(Path(__file__).resolve().parent))
-from capture_source import Parser, render
+from capture_source import Parser
 
 ROOT=Path(__file__).resolve().parent.parent
 PAGES=json.loads((ROOT/'content/manifest.json').read_text())
@@ -14,6 +14,35 @@ def news_content():
     def listing(entries):
         return '<ul class="news-list">'+''.join('<li><time datetime="'+datetime.strptime(item['date'],'%B %Y').strftime('%Y-%m')+'">'+html.escape(item['date'])+'</time><span>'+html.escape(item['text'])+'</span></li>' for item in entries)+'</ul>'
     return '<section class="news-panel" aria-labelledby="news-title"><h2 id="news-title">News</h2>'+listing(items[:6])+'<details><summary>Earlier news ('+str(len(items[6:]))+')</summary>'+listing(items[6:])+'</details></section>'
+def bibliography_content():
+    parser=Parser()
+    original_html=(ROOT/'content/publications.html').read_text()
+    parser.feed(original_html)
+    original=[node for node in parser.root.walk() if node.tag=='li']
+    original_markup=re.findall(r'<li>.*?</li>',original_html,flags=re.S)
+    assert len(original_markup)==len(original)
+    entries=[]
+    for index,node in enumerate(original,1):
+        year=re.search(r'\b(20\d{2})\b',node.text())
+        entries.append((int(year[1]) if year else 0,original_markup[index-1].replace('<li>',f'<li id="original-{index}">',1)))
+    additions=json.loads((ROOT/'content/publications-added.json').read_text())
+    related=[]
+    for record in additions:
+        esc=html.escape
+        venue=esc(record['venue'])
+        if record.get('volume'):venue+=' '+esc(record['volume'])
+        if record.get('issue'):venue+='('+esc(record['issue'])+')'
+        if record.get('pages'):venue+=', '+esc(record['pages'])
+        kind='<span class="publication-type">'+esc(record['type'])+'</span> ' if record.get('type') else ''
+        links=' · '.join('<a href="'+esc(link['url'],quote=True)+'">'+esc(link['label'])+'</a>' for link in record['links'])
+        citation='<li id="'+esc(record['id'],quote=True)+'"><p>'+kind+esc(record['authors'])+' ('+esc(record['year'] or 'n.d.')+'). <strong>'+esc(record['title'])+'</strong>. <em>'+venue+'</em>. '+links+'</p></li>'
+        target=related if record['category']=='related' else entries
+        target.append((int(record['year']) if record['year'].isdigit() else 0,citation))
+    listing=lambda items:'<ul class="publication-list">'+''.join(citation for year,citation in sorted(items,key=lambda row:row[0],reverse=True))+'</ul>'
+    reviewed=json.loads((ROOT/'content/bibliography-review.json').read_text())['accessed']
+    date=datetime.strptime(reviewed,'%Y-%m-%d').strftime('%d %B %Y').lstrip('0')
+    intro='<p class="bibliography-intro"><a href="https://scholar.google.com/citations?user=lgfpklAAAAAJ&amp;hl=en">Google Scholar</a> · <a href="https://dblp.org/pid/79/10105.html">DBLP</a><br><span>Updated '+date+'</span></p>'
+    return intro+'<h2>Publications and preprints</h2>'+listing(entries)+'<h2>Other research outputs</h2>'+listing(related)
 def page_content(page):
     slug=page['slug']; text=(ROOT/f'content/{slug}.html').read_text()
     if slug=='home':
@@ -25,7 +54,7 @@ def page_content(page):
         # The page title takes the place of an identical imported first heading.
         text=re.sub(r'^<h2>'+re.escape(html.escape(page['title']))+r'</h2>\s*','',text)
     if slug=='publications':
-        text=text.replace('<ul>','<ul class="publication-list">',1)
+        text=bibliography_content()
         text='<div class="filters" hidden><label for="publication-search">Search publications</label><input id="publication-search" data-publication-search type="search" placeholder="Title, author, venue or year…"><div class="result-count" data-result-count role="status" aria-live="polite"></div></div>'+text
     return text
 def heading(page,embedded=False):

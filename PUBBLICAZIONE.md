@@ -4,15 +4,21 @@ Account: **hstairs**. Repository previsto: **hstairs/hstairs.github.io**.
 
 ## Stato della preparazione
 
-Il sito e il workflow sono pronti localmente. Il repository GitHub remoto e
+Il sito, le News originali e la bibliografia aggiornata sono pronti localmente,
+insieme al workflow. Il repository GitHub remoto e
 l'attivazione di Pages devono ancora essere completati nell'account autenticato;
 non sono stati creati o verificati. I record DNS di hstairs.com non sono cambiati.
 
 ## Primo caricamento
 
-Una volta creato il repository **pubblico e vuoto** `hstairs.github.io` nell'account
-`hstairs` (senza README, licenza o .gitignore generati da GitHub), aprire le sue
-impostazioni **Settings → Pages → Source → GitHub Actions**.
+1. Aprire https://github.com/new e creare il repository **pubblico e vuoto**
+   `hstairs.github.io` nell'account `hstairs`, senza README, licenza o .gitignore
+   generati da GitHub.
+2. Fare il push dalla cartella locale con il comando sotto.
+3. Nel repository aprire **Settings → Pages → Source → GitHub Actions**.
+4. In **Actions → Publish personal website**, se la prima esecuzione è fallita
+   prima dell'attivazione di Pages, scegliere **Re-run all jobs**. In alternativa,
+   usare **Run workflow** sul ramo `main`.
 
 Il repository locale è configurato affinché questo comando carichi il commit
 preparato su `main` del repository remoto:
@@ -32,7 +38,8 @@ Il sito sarà disponibile su **https://hstairs.github.io/** a pubblicazione rius
 
 ## Aggiornamenti successivi
 
-Modificare `content/*.html`, poi:
+Modificare `content/*.html`, `content/news.json` o
+`content/publications-added.json`, poi:
 
 ```sh
 python3 scripts/build.py

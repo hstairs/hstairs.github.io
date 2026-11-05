@@ -2,7 +2,11 @@
 
 This is a static rebuild of https://sites.google.com/view/enricoscalashomepage/,
 captured on 5 November 2026. It preserves all seven public pages, your portrait,
-56 publication entries, 26 news items, original links, and the two publication correction notes.
+56 original publication entries, 26 news items, original links, and the two publication correction notes.
+The updated bibliography adds 47 papers/preprints and six other research outputs,
+with all 110 records from the public Scholar profile reviewed on 5 November 2026.
+The KR 2026 paper and IJCAI 2024 extended abstract were also verified in their
+official proceedings. The bibliography now displays 109 entries in total.
 The original site's Milan page is empty; its new page retains the title.
 The new design uses local fonts, a sidebar, readable typography, and responsive CSS.
 No web framework, server application, analytics, or external font service is needed.
@@ -13,6 +17,8 @@ No web framework, server application, analytics, or external font service is nee
 - `google-sites/embed.html`: self-contained version for pasting into Google Sites;
   CSS, JavaScript and the portrait are included in the file.
 - `content/`: editable content, one HTML fragment per page; `news.json` holds the news.
+  `publications-added.json` holds the added bibliography records and links;
+  `bibliography-review.json` documents coverage and duplicate decisions.
 - `source-snapshot/`: original downloaded HTML for comparison; not for hosting.
 - `scripts/build.py`: generates both versions using Python 3, standard library only.
 - `scripts/verify.py`: checks source text and link preservation and local assets.
@@ -91,13 +97,21 @@ snapshot and overwrites the content fragments from the old live Google Site.
 
 ## Keeping publications current
 
-The migrated list deliberately retains the original 2010–2023 entries. No new
-papers or publication statuses have been guessed, and no Scholar scraper runs in
-visitors' browsers. Search filters the local static list by author, title, venue,
-or year; all entries remain readable without JavaScript.
+The list retains the original 2010–2023 entries and adds verified missing records
+through 2026. Original PDF links and correction notes are preserved. Journal and
+conference versions remain separate; recognised alternate-title duplicates are
+mapped to the existing records. Preprints are labelled, and theses, reports,
+editorial contributions and less certain Scholar records appear under Other
+research outputs. The review file records the one possible title duplicate kept
+in that latter section. DBLP's flagged ORCID identity conflict was checked, and
+unrelated extortion/ransomware records were excluded.
 
-To update from Scholar, export your profile's records as BibTeX and merge new
-publications into `content/publications.html`. Preserve the existing PDF links,
+No Scholar scraper runs in visitors' browsers. Search filters all 109 local entries
+by author, title, venue, or year; the full list is readable without JavaScript.
+
+For future updates, export your profile's records as BibTeX and merge new
+publications into `content/publications-added.json`. Update the review date in
+`content/bibliography-review.json`. Preserve the existing PDF links,
 software links, and correction notes; do not replace the whole list blindly.
 Rebuild and republish afterward. A future scheduled build can use a supported
 bibliographic API or reviewed exports while the published website remains static.
@@ -106,8 +120,9 @@ https://scholar.google.com/intl/en/scholar/help.html
 
 ## Migration notes
 
-The publication and project descriptions, including older dates, “to appear”
-statuses and original spelling, are retained as supplied. The existing site's
+The original publication and project descriptions, including older dates, “to appear”
+statuses and original spelling, are retained as supplied. New records use the
+reviewed bibliography metadata described above. The existing site's
 Google search, cookie banner, tracking code, and site logo
 were not carried over as website content. The embedded News block is restored as
 native static HTML, with the six latest updates and an expandable archive. Existing external destinations have

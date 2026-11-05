@@ -1,0 +1,909 @@
+[
+  {
+    "title": "The 2023 international planning competition",
+    "authors": "A Taitler, R Alford, J Espasa, G Behnke, D Fišer, M Gimelfarb, ...",
+    "venue": "AI Magazine 45 (2), 280-296, 2024",
+    "year": "2024",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:_B80troHkn4C",
+    "profile_index": 1,
+    "full_title": "The 2023 international planning competition",
+    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/aaai.12169",
+    "fields": {
+      "Authors": "Ayal Taitler, Ron Alford, Joan Espasa, Gregor Behnke, Daniel Fišer, Michael Gimelfarb, Florian Pommerening, Scott Sanner, Enrico Scala, Dominik Schreiber, Javier Segovia‐Aguas, Jendrik Seipp",
+      "Publication date": "2024/6",
+      "Source": "AI Magazine",
+      "Volume": "45",
+      "Issue": "2",
+      "Pages": "280-296"
+    }
+  },
+  {
+    "title": "Unified Planning: Modeling, manipulating and solving AI planning problems in Python",
+    "authors": "A Micheli, A Bit-Monnot, G Röger, E Scala, A Valentini, L Framba, ...",
+    "venue": "SoftwareX 29, 102012, 2025",
+    "year": "2025",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:WqliGbK-hY8C",
+    "profile_index": 3,
+    "full_title": "Unified Planning: Modeling, manipulating and solving AI planning problems in Python",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2352711024003820",
+    "fields": {
+      "Authors": "Andrea Micheli, Arthur Bit-Monnot, Gabriele Röger, Enrico Scala, Alessandro Valentini, Luca Framba, Alberto Rovetta, Alessandro Trapasso, Luigi Bonassi, Alfonso Emilio Gerevini, Luca Iocchi, Felix Ingrand, Uwe Köckemann, Fabio Patrizi, Alessandro Saetti, Ivan Serina, Sebastian Stock",
+      "Publication date": "2025/2/1",
+      "Journal": "SoftwareX",
+      "Volume": "29",
+      "Pages": "102012",
+      "Publisher": "Elsevier"
+    }
+  },
+  {
+    "title": "Safe learning of pddl domains with conditional effects",
+    "authors": "A Mordoch, E Scala, R Stern, B Juba",
+    "venue": "Proceedings of the International Conference on Automated Planning and …, 2024",
+    "year": "2024",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:wbdj-CoPYUoC",
+    "profile_index": 13,
+    "full_title": "Safe learning of pddl domains with conditional effects",
+    "url": "https://ojs.aaai.org/index.php/ICAPS/article/view/31498",
+    "fields": {
+      "Authors": "Argaman Mordoch, Enrico Scala, Roni Stern, Brendan Juba",
+      "Publication date": "2024/5/30",
+      "Journal": "Proceedings of the International Conference on Automated Planning and Scheduling",
+      "Volume": "34",
+      "Pages": "387-395"
+    }
+  },
+  {
+    "title": "Action Model Learning with Guarantees",
+    "authors": "D Aineto, E Scala",
+    "venue": "Proceedings of the 21st International Conference on Principles of Knowledge …, 2024",
+    "year": "2024",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:JoZmwDi-zQgC",
+    "profile_index": 26,
+    "full_title": "Action Model Learning with Guarantees",
+    "url": "https://arxiv.org/abs/2404.09631",
+    "fields": {
+      "Authors": "Diego Aineto, Enrico Scala",
+      "Publication date": "2024/11",
+      "Conference": "Proceedings of the 21st International Conference on Principles of Knowledge Representation and Reasoning, KR 2024"
+    }
+  },
+  {
+    "title": "FOND planning for pure-past linear temporal logic goals",
+    "authors": "L Bonassi, G De Giacomo, M Favorito, F Fuggitti, AE Gerevini, E Scala",
+    "venue": "ECAI 2023: 26th European Conference on Artificial Intelligence, September 30 …, 2023",
+    "year": "2023",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:WA5NYHcadZ8C",
+    "profile_index": 27,
+    "full_title": "FOND planning for pure-past linear temporal logic goals",
+    "url": "https://journals.sagepub.com/doi/abs/10.3233/FAIA230281",
+    "fields": {
+      "Authors": "Luigi Bonassi, Giuseppe De Giacomo, Marco Favorito, Francesco Fuggitti, Alfonso Emilio Gerevini, Enrico Scala",
+      "Publication date": "2023",
+      "Book": "ECAI 2023: 26th European Conference on Artificial Intelligence, September 30–October 4, 2023, Kraków, Poland–Including 12th Conference on Prestigious Applications of Intelligent Systems (PAIS 2023)",
+      "Pages": "279-286",
+      "Publisher": "SAGE Publications"
+    }
+  },
+  {
+    "title": "Dealing with numeric and metric time constraints in PDDL3 via compilation to numeric planning",
+    "authors": "L Bonassi, AE Gerevini, E Scala",
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 38 (18), 20036 …, 2024",
+    "year": "2024",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:Y5dfb0dijaUC",
+    "profile_index": 31,
+    "full_title": "Dealing with numeric and metric time constraints in PDDL3 via compilation to numeric planning",
+    "url": "https://ojs.aaai.org/index.php/AAAI/article/view/29981",
+    "fields": {
+      "Authors": "Luigi Bonassi, Alfonso Emilio Gerevini, Enrico Scala",
+      "Publication date": "2024/3/24",
+      "Journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "Volume": "38",
+      "Issue": "18",
+      "Pages": "20036-20043"
+    }
+  },
+  {
+    "title": "Action-failure resilient planning",
+    "authors": "D Aineto, A Gaudenzi, A Gerevini, A Rovetta, E Scala, I Serina",
+    "venue": "ECAI 2023: 26th European Conference on Artificial Intelligence, September 30 …, 2023",
+    "year": "2023",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:HE397vMXCloC",
+    "profile_index": 33,
+    "full_title": "Action-failure resilient planning",
+    "url": "https://journals.sagepub.com/doi/abs/10.3233/FAIA230252",
+    "fields": {
+      "Authors": "Diego Aineto, Alessandro Gaudenzi, Alfonso Gerevini, Alberto Rovetta, Enrico Scala, Ivan Serina",
+      "Publication date": "2023",
+      "Book": "ECAI 2023: 26th European Conference on Artificial Intelligence, September 30–October 4, 2023, Kraków, Poland–Including 12th Conference on Prestigious Applications of Intelligent Systems (PAIS 2023)",
+      "Pages": "44-51",
+      "Publisher": "SAGE Publications"
+    }
+  },
+  {
+    "title": "An effective polynomial technique for compiling conditional effects away",
+    "authors": "AE Gerevini, F Percassi, E Scala",
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 38 (18), 20104 …, 2024",
+    "year": "2024",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:eMMeJKvmdy0C",
+    "profile_index": 36,
+    "full_title": "An effective polynomial technique for compiling conditional effects away",
+    "url": "https://ojs.aaai.org/index.php/AAAI/article/view/29989",
+    "fields": {
+      "Authors": "Alfonso Emilio Gerevini, Francesco Percassi, Enrico Scala",
+      "Publication date": "2024/3/24",
+      "Journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "Volume": "38",
+      "Issue": "18",
+      "Pages": "20104-20112"
+    }
+  },
+  {
+    "title": "Towards Practical Classical Planning Compilations of Numeric Planning",
+    "authors": "L Bonassi, F Percassi, E Scala",
+    "venue": "39th Annual AAAI Conference on Artificial Intelligence, 2025",
+    "year": "2025",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:LjlpjdlvIbIC",
+    "profile_index": 43,
+    "full_title": "Towards Practical Classical Planning Compilations of Numeric Planning",
+    "url": "https://ojs.aaai.org/index.php/AAAI/article/view/34847",
+    "fields": {
+      "Authors": "Luigi Bonassi, Francesco Percassi, Enrico Scala",
+      "Publication date": "2025",
+      "Conference": "39th Annual AAAI Conference on Artificial Intelligence",
+      "Publisher": "AAAI press",
+      "Volume": "39",
+      "Issue": "25",
+      "Pages": "26472-26480"
+    }
+  },
+  {
+    "title": "Numerical integration and dynamic discretization in heuristic search planning over hybrid domains",
+    "authors": "M Ramirez, E Scala, P Haslum, S Thiebaux",
+    "venue": "arXiv preprint arXiv:1703.04232, 2017",
+    "year": "2017",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:g5m5HwL7SMYC",
+    "profile_index": 45,
+    "full_title": "Numerical integration and dynamic discretization in heuristic search planning over hybrid domains",
+    "url": "https://arxiv.org/abs/1703.04232",
+    "fields": {
+      "Authors": "Miquel Ramirez, Enrico Scala, Patrik Haslum, Sylvie Thiebaux",
+      "Publication date": "2017/3/13",
+      "Journal": "arXiv preprint arXiv:1703.04232"
+    }
+  },
+  {
+    "title": "Reconfiguration and Replanning for robust Execution of Plans Involving Continous and Consumable Resources",
+    "authors": "E Scala",
+    "venue": "PhD thesis, Department of Computer Science-Turin, 2013",
+    "year": "2013",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:M3NEmzRMIkIC",
+    "profile_index": 46,
+    "full_title": "Reconfiguration and Replanning for robust Execution of Plans Involving Continous and Consumable Resources",
+    "url": "https://dott-informatica.campusnet.unito.it/html/theses/scala.pdf",
+    "fields": {
+      "Authors": "Enrico Scala",
+      "Publication date": "2013/4/2",
+      "Institution": "PhD thesis, Department of Computer Science-Turin"
+    }
+  },
+  {
+    "title": "On the notion of plan quality for pddl+",
+    "authors": "F Percassi, E Scala, M Vallati",
+    "venue": "Proceedings of the International Conference on Automated Planning and …, 2025",
+    "year": "2025",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:ZuybSZzF8UAC",
+    "profile_index": 47,
+    "full_title": "On the notion of plan quality for pddl+",
+    "url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36106",
+    "fields": {
+      "Authors": "Francesco Percassi, Enrico Scala, Mauro Vallati",
+      "Publication date": "2025/9/16",
+      "Journal": "Proceedings of the International Conference on Automated Planning and Scheduling",
+      "Volume": "35",
+      "Issue": "1",
+      "Pages": "102-111"
+    }
+  },
+  {
+    "title": "Taming discretised PDDL+ through multiple discretisations",
+    "authors": "M Cardellini, M Maratea, F Percassi, E Scala, M Vallati",
+    "venue": "Proceedings of the International Conference on Automated Planning and …, 2024",
+    "year": "2024",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:kRWSkSYxWN8C",
+    "profile_index": 48,
+    "full_title": "Taming discretised PDDL+ through multiple discretisations",
+    "url": "https://ojs.aaai.org/index.php/ICAPS/article/view/31461",
+    "fields": {
+      "Authors": "Matteo Cardellini, Marco Maratea, Francesco Percassi, Enrico Scala, Mauro Vallati",
+      "Publication date": "2024/5/30",
+      "Journal": "Proceedings of the International Conference on Automated Planning and Scheduling",
+      "Volume": "34",
+      "Pages": "59-67"
+    }
+  },
+  {
+    "title": "Exploiting classical planning grounding in hybrid pddl+ planning engines",
+    "authors": "E Scala, M Vallati",
+    "venue": "2020 IEEE 32nd International Conference on Tools with Artificial …, 2020",
+    "year": "2020",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:CHSYGLWDkRkC",
+    "profile_index": 51,
+    "full_title": "Exploiting classical planning grounding in hybrid pddl+ planning engines",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9288340/",
+    "fields": {
+      "Authors": "Enrico Scala, Mauro Vallati",
+      "Publication date": "2020/11/9",
+      "Conference": "2020 IEEE 32nd International Conference on Tools with Artificial Intelligence (ICTAI)",
+      "Pages": "85-92",
+      "Publisher": "IEEE"
+    }
+  },
+  {
+    "title": "Using a hybrid AI-Planner to plan feasible flight paths for HAPS-Like UAVs",
+    "authors": "JJ Kiam, E Scala, M Ramirez, A Schulte",
+    "venue": "Workshop on Planning and Robotics (PlanRob) at ICAPS, 2018",
+    "year": "2018",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:geHnlv5EZngC",
+    "profile_index": 52,
+    "full_title": "Using a hybrid AI-Planner to plan feasible flight paths for HAPS-Like UAVs",
+    "url": "https://scholar.google.com/scholar?cluster=18228613808317772763&hl=en&oi=scholarr",
+    "fields": {
+      "Authors": "JJ Kiam, E Scala, M Ramirez, A Schulte",
+      "Publication date": "2018",
+      "Journal": "Workshop on Planning and Robotics (PlanRob) at ICAPS"
+    }
+  },
+  {
+    "title": "A sampling approach to planning with infinite domain control variables",
+    "authors": "A Aso-Mollar, D Aineto, E Scala, E Onaindia",
+    "venue": "Proceedings of the International Conference on Automated Planning and …, 2025",
+    "year": "2025",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:1yQoGdGgb4wC",
+    "profile_index": 54,
+    "full_title": "A sampling approach to planning with infinite domain control variables",
+    "url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36111",
+    "fields": {
+      "Authors": "Angel Aso-Mollar, Diego Aineto, Enrico Scala, Eva Onaindia",
+      "Publication date": "2025/9/16",
+      "Journal": "Proceedings of the International Conference on Automated Planning and Scheduling",
+      "Volume": "35",
+      "Issue": "1",
+      "Pages": "149-153"
+    }
+  },
+  {
+    "title": "On using lazy greedy best-first search with subgoaling relaxation in numeric planning problems",
+    "authors": "E Scala, L Bonassi",
+    "venue": "Proceedings of the International Conference on Automated Planning and …, 2025",
+    "year": "2025",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:VL0QpB8kHFEC",
+    "profile_index": 55,
+    "full_title": "On using lazy greedy best-first search with subgoaling relaxation in numeric planning problems",
+    "url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36125",
+    "fields": {
+      "Authors": "Enrico Scala, Luigi Bonassi",
+      "Publication date": "2025/9/16",
+      "Journal": "Proceedings of the International Conference on Automated Planning and Scheduling",
+      "Volume": "35",
+      "Issue": "1",
+      "Pages": "245-249"
+    }
+  },
+  {
+    "title": "Handling infinite domain parameters in planning through best-first search with delayed partial expansions",
+    "authors": "Á Aso-Mollar, D Aineto, E Scala, E Onaindia",
+    "venue": "arXiv preprint arXiv:2509.03953, 2025",
+    "year": "2025",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:UHK10RUVsp4C",
+    "profile_index": 56,
+    "full_title": "Handling infinite domain parameters in planning through best-first search with delayed partial expansions",
+    "url": "https://arxiv.org/abs/2509.03953",
+    "fields": {
+      "Authors": "Ángel Aso-Mollar, Diego Aineto, Enrico Scala, Eva Onaindia",
+      "Publication date": "2025/9/4",
+      "Journal": "arXiv preprint arXiv:2509.03953",
+      "Pages": "8456-8464"
+    }
+  },
+  {
+    "title": "Learning heuristic functions with graph neural networks for numeric planning",
+    "authors": "V Borelli, A Gerevini, E Scala, I Serina",
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 40 (43), 36172 …, 2026",
+    "year": "2026",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:dQ2og3OwTAUC",
+    "profile_index": 60,
+    "full_title": "Learning heuristic functions with graph neural networks for numeric planning",
+    "url": "https://ojs.aaai.org/index.php/AAAI/article/view/40935",
+    "fields": {
+      "Authors": "Valerio Borelli, Alfonso Gerevini, Enrico Scala, Ivan Serina",
+      "Publication date": "2026/3/14",
+      "Journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "Volume": "40",
+      "Issue": "43",
+      "Pages": "36172-36179"
+    }
+  },
+  {
+    "title": "Shielded FOND: Planning with safety constraints in pure-past linear temporal logic",
+    "authors": "L Bonassi, G De Giacomo, AE Gerevini, E Scala",
+    "venue": "ECAI 2024: 27th European Conference on Artificial Intelligence, 19–24 …, 2024",
+    "year": "2024",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:eq2jaN3J8jMC",
+    "profile_index": 61,
+    "full_title": "Shielded FOND: Planning with safety constraints in pure-past linear temporal logic",
+    "url": "https://journals.sagepub.com/doi/abs/10.3233/FAIA240623",
+    "fields": {
+      "Authors": "Luigi Bonassi, Giuseppe De Giacomo, Alfonso Emilio Gerevini, Enrico Scala",
+      "Publication date": "2024",
+      "Book": "ECAI 2024: 27th European Conference on Artificial Intelligence, 19–24 October 2024, Santiago de Compostela, Spain–Including 13th Conference on Prestigious Applications of Intelligent Systems (PAIS 2024)",
+      "Pages": "1262-1269",
+      "Publisher": "SAGE Publications Pvt. Ltd"
+    }
+  },
+  {
+    "title": "Leapnp: A modular python framework for benchmarking learned heuristics in numeric planning",
+    "authors": "V Borelli, AE Gerevini, E Scala, I Serina",
+    "venue": "Future Internet 18 (2), 93, 2026",
+    "year": "2026",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:uLbwQdceFCQC",
+    "profile_index": 64,
+    "full_title": "Leapnp: A modular python framework for benchmarking learned heuristics in numeric planning",
+    "url": "https://www.mdpi.com/1999-5903/18/2/93",
+    "fields": {
+      "Authors": "Valerio Borelli, Alfonso Emilio Gerevini, Enrico Scala, Ivan Serina",
+      "Publication date": "2026/2/11",
+      "Journal": "Future Internet",
+      "Volume": "18",
+      "Issue": "2",
+      "Pages": "93",
+      "Publisher": "MDPI"
+    }
+  },
+  {
+    "title": "Optimised variants of polynomial compilation for conditional effects in classical planning",
+    "authors": "F Percassi, E Scala, AE Gerevini",
+    "venue": "Proceedings of the International Symposium on Combinatorial Search 17, 100-108, 2024",
+    "year": "2024",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:PELIpwtuRlgC",
+    "profile_index": 65,
+    "full_title": "Optimised variants of polynomial compilation for conditional effects in classical planning",
+    "url": "https://ojs.aaai.org/index.php/SOCS/article/view/31547",
+    "fields": {
+      "Authors": "Francesco Percassi, Enrico Scala, Alfonso Emilio Gerevini",
+      "Publication date": "2024/6/1",
+      "Journal": "Proceedings of the International Symposium on Combinatorial Search",
+      "Volume": "17",
+      "Pages": "100-108"
+    }
+  },
+  {
+    "title": "A sound (but incomplete) polynomial translation from discretised PDDL+ to numeric planning",
+    "authors": "F Percassi, E Scala, M Vallati",
+    "venue": "International Conference of the Italian Association for Artificial …, 2021",
+    "year": "2021",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:u9iWguZQMMsC",
+    "profile_index": 66,
+    "full_title": "A sound (but incomplete) polynomial translation from discretised PDDL+ to numeric planning",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-031-08421-8_2",
+    "fields": {
+      "Authors": "Francesco Percassi, Enrico Scala, Mauro Vallati",
+      "Publication date": "2021/12/1",
+      "Book": "International Conference of the Italian Association for Artificial Intelligence",
+      "Pages": "18-31",
+      "Publisher": "Springer International Publishing"
+    }
+  },
+  {
+    "title": "Using AI-planning to solve a kinodynamic path planning problem and its application for haps",
+    "authors": "JJ Kiam, A Schulte, E Scala",
+    "venue": "International Conference on Intelligent Human Systems Integration, 758-764, 2019",
+    "year": "2019",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:cFHS6HbyZ2cC",
+    "profile_index": 68,
+    "full_title": "Using AI-planning to solve a kinodynamic path planning problem and its application for haps",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-030-11051-2_115",
+    "fields": {
+      "Authors": "Jane Jean Kiam, Axel Schulte, Enrico Scala",
+      "Publication date": "2019/1/6",
+      "Book": "International Conference on Intelligent Human Systems Integration",
+      "Pages": "758-764",
+      "Publisher": "Springer International Publishing"
+    }
+  },
+  {
+    "title": "PPS: An Efficient Java-based Simulator for Time-Discrete PDDL+",
+    "authors": "E Scala, F Percassi, M Vallati",
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 40 (48), 41682 …, 2026",
+    "year": "2026",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:Fu2w8maKXqMC",
+    "profile_index": 71,
+    "full_title": "PPS: An Efficient Java-based Simulator for Time-Discrete PDDL+",
+    "url": "https://ojs.aaai.org/index.php/AAAI/article/view/42380",
+    "fields": {
+      "Authors": "Enrico Scala, Francesco Percassi, Mauro Vallati",
+      "Publication date": "2026/3/14",
+      "Journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "Volume": "40",
+      "Issue": "48",
+      "Pages": "41682-41684"
+    }
+  },
+  {
+    "title": "Leveraging AI Planning Models for the Water Management of the Red River Basin in Vietnam",
+    "authors": "D Aineto, M Battisti, HY Nguyen, N Le An, R Ranzi, E Scala, I Serina",
+    "venue": "The International Conference on Data Science and Emerging Technologies, 569-583, 2024",
+    "year": "2024",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:NJ774b8OgUMC",
+    "profile_index": 72,
+    "full_title": "Leveraging AI Planning Models for the Water Management of the Red River Basin in Vietnam",
+    "url": "https://link.springer.com/chapter/10.1007/978-981-96-7749-8_37",
+    "fields": {
+      "Authors": "Diego Aineto, Matteo Battisti, Hai Yen Nguyen, Ngo Le An, Roberto Ranzi, Enrico Scala, Ivan Serina",
+      "Publication date": "2024/12/12",
+      "Book": "The International Conference on Data Science and Emerging Technologies",
+      "Pages": "569-583",
+      "Publisher": "Springer Nature Singapore"
+    }
+  },
+  {
+    "title": "AI Planning for Hybrid Systems.",
+    "authors": "E Scala",
+    "venue": "IJCAI, 7045-7050, 2023",
+    "year": "2023",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:bnK-pcrLprsC",
+    "profile_index": 73,
+    "full_title": "AI Planning for Hybrid Systems.",
+    "url": "https://www.ijcai.org/proceedings/2023/0805.pdf",
+    "fields": {
+      "Authors": "Enrico Scala",
+      "Publication date": "2023/8/19",
+      "Conference": "IJCAI",
+      "Pages": "7045-7050"
+    }
+  },
+  {
+    "title": "Towards Plan Recognition in Hybrid Systems.",
+    "authors": "D Aineto, E Onaindia, M Ramírez, E Scala, I Serina",
+    "venue": "IPS-RCRA@ AI* IA, 2020",
+    "year": "2020",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:P5F9QuxV20EC",
+    "profile_index": 75,
+    "full_title": "Towards Plan Recognition in Hybrid Systems.",
+    "url": "https://ceur-ws.org/Vol-2745/paper3.pdf",
+    "fields": {
+      "Authors": "Diego Aineto, Eva Onaindia, Miquel Ramírez, Enrico Scala, Ivan Serina",
+      "Publication date": "2020",
+      "Conference": "IPS-RCRA@ AI* IA"
+    }
+  },
+  {
+    "title": "ReCon: An online task reconfiguration approach for robust plan execution",
+    "authors": "E Scala, R Micalizio, P Torasso",
+    "venue": "International Conference on Agents and Artificial Intelligence, 262-279, 2014",
+    "year": "2014",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:lSLTfruPkqcC",
+    "profile_index": 76,
+    "full_title": "ReCon: An online task reconfiguration approach for robust plan execution",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-319-25210-0_16",
+    "fields": {
+      "Authors": "Enrico Scala, Roberto Micalizio, Pietro Torasso",
+      "Publication date": "2014/3/6",
+      "Book": "International Conference on Agents and Artificial Intelligence",
+      "Pages": "262-279",
+      "Publisher": "Springer International Publishing"
+    }
+  },
+  {
+    "title": "Subgoaling Relaxation-based Heuristics for Numeric Planning with Infinite Actions",
+    "authors": "Á Aso-Mollar, D Aineto, E Scala, E Onaindia",
+    "venue": "Proceedings of the International Conference on Automated Planning and …, 2026",
+    "year": "2026",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:ZfRJV9d4-WMC",
+    "profile_index": 79,
+    "full_title": "Subgoaling Relaxation-based Heuristics for Numeric Planning with Infinite Actions",
+    "url": "https://ojs.aaai.org/index.php/ICAPS/article/view/42809",
+    "fields": {
+      "Authors": "Ángel Aso-Mollar, Diego Aineto, Enrico Scala, Eva Onaindia",
+      "Publication date": "2026/6/8",
+      "Journal": "Proceedings of the International Conference on Automated Planning and Scheduling",
+      "Volume": "36",
+      "Issue": "1",
+      "Pages": "11-19"
+    }
+  },
+  {
+    "title": "Two constraint compilation methods for lifted planning",
+    "authors": "P Mantenoglou, L Bonassi, E Scala, PZ Dos Martires",
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 40 (43), 36325 …, 2026",
+    "year": "2026",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:tKAzc9rXhukC",
+    "profile_index": 80,
+    "full_title": "Two constraint compilation methods for lifted planning",
+    "url": "https://ojs.aaai.org/index.php/AAAI/article/view/40952",
+    "fields": {
+      "Authors": "Periklis Mantenoglou, Luigi Bonassi, Enrico Scala, Pedro Zuidberg Dos Martires",
+      "Publication date": "2026/3/14",
+      "Journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "Volume": "40",
+      "Issue": "43",
+      "Pages": "36325-36333"
+    }
+  },
+  {
+    "title": "Compiling Temporal Numeric Planning into Discrete PDDL+: Extended Version",
+    "authors": "A Micheli, E Scala, A Valentini",
+    "venue": "arXiv preprint arXiv:2603.12188, 2026",
+    "year": "2026",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:kzcrU_BdoSEC",
+    "profile_index": 81,
+    "full_title": "Compiling Temporal Numeric Planning into Discrete PDDL+: Extended Version",
+    "url": "https://arxiv.org/abs/2603.12188",
+    "fields": {
+      "Authors": "Andrea Micheli, Enrico Scala, Alessandro Valentini",
+      "Publication date": "2026/3/12",
+      "Journal": "arXiv preprint arXiv:2603.12188"
+    }
+  },
+  {
+    "title": "Conditional effects in numeric planning reloaded",
+    "authors": "L Bonassi, JE Arxer, F Percassi, E Scala",
+    "venue": "ECAI 2025: 28th European Conference on Artificial Intelligence 25-30 October …, 2025",
+    "year": "2025",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:PR6Y55bgFSsC",
+    "profile_index": 82,
+    "full_title": "Conditional effects in numeric planning reloaded",
+    "url": "https://journals.sagepub.com/doi/abs/10.3233/FAIA251404",
+    "fields": {
+      "Authors": "Luigi Bonassi, Joan Espasa Arxer, Francesco Percassi, Enrico Scala",
+      "Publication date": "2025/10/21",
+      "Book": "ECAI 2025: 28th European Conference on Artificial Intelligence 25-30 October 2025, Bologna, Italy-Including 14th Conference on Prestigious Applications of Intelligent Systems (PAIS 2025) Proceedings",
+      "Pages": "4929-4936",
+      "Publisher": "SAGE Publications"
+    }
+  },
+  {
+    "title": "Cost-optimal FOND planning as bi-objective best-first search",
+    "authors": "D Aineto, E Scala",
+    "venue": "Proceedings of the International Conference on Automated Planning and …, 2025",
+    "year": "2025",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:N5tVd3kTz84C",
+    "profile_index": 83,
+    "full_title": "Cost-optimal FOND planning as bi-objective best-first search",
+    "url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36110",
+    "fields": {
+      "Authors": "Diego Aineto, Enrico Scala",
+      "Publication date": "2025/9/16",
+      "Journal": "Proceedings of the International Conference on Automated Planning and Scheduling",
+      "Volume": "35",
+      "Issue": "1",
+      "Pages": "140-148"
+    }
+  },
+  {
+    "title": "BLAST: Bit-Blasting Numbers for Classical Planning",
+    "authors": "L Bonassi, F Percassi, E Scala",
+    "venue": "Proceedings of the International Symposium on Combinatorial Search 18, 249-250, 2025",
+    "year": "2025",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:hkOj_22Ku90C",
+    "profile_index": 84,
+    "full_title": "BLAST: Bit-Blasting Numbers for Classical Planning",
+    "url": "https://ojs.aaai.org/index.php/SOCS/article/view/36002",
+    "fields": {
+      "Authors": "Luigi Bonassi, Francesco Percassi, Enrico Scala",
+      "Publication date": "2025/7/20",
+      "Journal": "Proceedings of the International Symposium on Combinatorial Search",
+      "Volume": "18",
+      "Pages": "249-250"
+    }
+  },
+  {
+    "title": "Improving Resilient Planning Through Landmarks and Regressed State Formulas",
+    "authors": "A Rovetta, D Aineto, AE Gerevini, E Scala, I Serina",
+    "venue": "ECAI 2025: 28th European Conference on Artificial Intelligence 25-30 October …, 2025",
+    "year": "2025",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:_Re3VWB3Y0AC",
+    "profile_index": 85,
+    "full_title": "Improving Resilient Planning Through Landmarks and Regressed State Formulas",
+    "url": "https://journals.sagepub.com/doi/abs/10.3233/FAIA251369",
+    "fields": {
+      "Authors": "Alberto Rovetta, Diego Aineto, Alfonso Emilio Gerevini, Enrico Scala, Ivan Serina",
+      "Publication date": "2025",
+      "Book": "ECAI 2025: 28th European Conference on Artificial Intelligence 25-30 October 2025, Bologna, Italy-Including 14th Conference on Prestigious Applications of Intelligent Systems (PAIS 2025) Proceedings",
+      "Pages": "4645-4652",
+      "Publisher": "SAGE Publications"
+    }
+  },
+  {
+    "title": "Optimally stable plan repair",
+    "authors": "A Saetti, E Scala",
+    "venue": "The Knowledge Engineering Review 40, e7, 2025",
+    "year": "2025",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:JQOojiI6XY0C",
+    "profile_index": 86,
+    "full_title": "Optimally stable plan repair",
+    "url": "https://www.cambridge.org/core/journals/knowledge-engineering-review/article/optimally-stable-plan-repair/DD03D400C759C63E399338832020F689",
+    "fields": {
+      "Authors": "Alessandro Saetti, Enrico Scala",
+      "Publication date": "2025/1",
+      "Journal": "The Knowledge Engineering Review",
+      "Volume": "40",
+      "Pages": "e7",
+      "Publisher": "Cambridge University Press"
+    }
+  },
+  {
+    "title": "Safe Learning of PDDL Domains with Conditional Effects--Extended Version",
+    "authors": "A Mordoch, E Scala, R Stern, B Juba",
+    "venue": "arXiv preprint arXiv:2403.15251, 2024",
+    "year": "2024",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:tkaPQYYpVKoC",
+    "profile_index": 87,
+    "full_title": "Safe Learning of PDDL Domains with Conditional Effects--Extended Version",
+    "url": "https://arxiv.org/abs/2403.15251",
+    "fields": {
+      "Authors": "Argaman Mordoch, Enrico Scala, Roni Stern, Brendan Juba",
+      "Publication date": "2024/3/22",
+      "Journal": "arXiv preprint arXiv:2403.15251"
+    }
+  },
+  {
+    "title": "On the Notion of Fixability of PDDL+ Plans",
+    "authors": "F Percassi, E Scala, M Vallati",
+    "venue": "Proceedings of the International Symposium on Combinatorial Search 16, 177-178, 2023",
+    "year": "2023",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:J-pR_7NvFogC",
+    "profile_index": 88,
+    "full_title": "On the Notion of Fixability of PDDL+ Plans",
+    "url": "https://ojs.aaai.org/index.php/SOCS/article/view/27302",
+    "fields": {
+      "Authors": "Francesco Percassi, Enrico Scala, Mauro Vallati",
+      "Publication date": "2023/7/2",
+      "Journal": "Proceedings of the International Symposium on Combinatorial Search",
+      "Volume": "16",
+      "Pages": "177-178"
+    }
+  },
+  {
+    "title": "Compiling Temporal Numeric Planning into Discrete PDDL+",
+    "authors": "A Micheli, E Scala, A Valentini",
+    "venue": "Proceedings of the International Conference on Automated Planning and …, 2026",
+    "year": "2026",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:W5xh706n7nkC",
+    "profile_index": 93,
+    "full_title": "Compiling Temporal Numeric Planning into Discrete PDDL+",
+    "url": "https://ojs.aaai.org/index.php/ICAPS/article/view/42853",
+    "fields": {
+      "Authors": "Andrea Micheli, Enrico Scala, Alessandro Valentini",
+      "Publication date": "2026/6/8",
+      "Journal": "Proceedings of the International Conference on Automated Planning and Scheduling",
+      "Volume": "36",
+      "Issue": "1",
+      "Pages": "399-403"
+    }
+  },
+  {
+    "title": "Learning Numeric Action Models with Anytime Guarantees",
+    "authors": "D Aineto, E Scala",
+    "venue": "Proceedings of the International Conference on Automated Planning and …, 2026",
+    "year": "2026",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:_Ybze24A_UAC",
+    "profile_index": 94,
+    "full_title": "Learning Numeric Action Models with Anytime Guarantees",
+    "url": "https://ojs.aaai.org/index.php/ICAPS/article/view/42874",
+    "fields": {
+      "Authors": "Diego Aineto, Enrico Scala",
+      "Publication date": "2026/6/8",
+      "Journal": "Proceedings of the International Conference on Automated Planning and Scheduling",
+      "Volume": "36",
+      "Issue": "1",
+      "Pages": "563-571"
+    }
+  },
+  {
+    "title": "Planning with uncertain action models",
+    "authors": "F Percassi, A Saetti, E Scala",
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 40 (43), 36343 …, 2026",
+    "year": "2026",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:7T2F9Uy0os0C",
+    "profile_index": 95,
+    "full_title": "Planning with uncertain action models",
+    "url": "https://ojs.aaai.org/index.php/AAAI/article/view/40954",
+    "fields": {
+      "Authors": "Francesco Percassi, Alessandro Saetti, Enrico Scala",
+      "Publication date": "2026/3/14",
+      "Journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "Volume": "40",
+      "Issue": "43",
+      "Pages": "36343-36350"
+    }
+  },
+  {
+    "title": "Yet Another Polynomial Compilation for Conditional Effects",
+    "authors": "F Percassi, E Scala, AE Gerevini",
+    "venue": "17th International Symposium on Combinatorial Search, 2024",
+    "year": "2024",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:9vf0nzSNQJEC",
+    "profile_index": 96,
+    "full_title": "Yet Another Polynomial Compilation for Conditional Effects",
+    "url": "https://scholar.google.com/scholar?cluster=11856940226655346699&hl=en&oi=scholarr",
+    "fields": {
+      "Authors": "Francesco Percassi, Enrico Scala, Alfonso Emilio Gerevini",
+      "Publication date": "2024/3/25",
+      "Conference": "17th International Symposium on Combinatorial Search",
+      "Publisher": "AAAI press"
+    }
+  },
+  {
+    "title": "Action-Failure Resilient Planning (Presented at ECAI2023)",
+    "authors": "D Aineto, A Gaudenzi, A Gerevini, A Rovetta, E Scala, I Serina",
+    "venue": "",
+    "year": "2024",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:SdhP9T11ey4C",
+    "profile_index": 97,
+    "full_title": "Action-Failure Resilient Planning (Presented at ECAI2023)",
+    "url": "https://icaps24.icaps-conference.org/program/workshops/keps-papers/KEPS-24_paper_6.pdf",
+    "fields": {
+      "Authors": "Diego Aineto, Alessandro Gaudenzi, Alfonso Gerevini, Alberto Rovetta, Enrico Scala, Ivan Serina",
+      "Publication date": "2024"
+    }
+  },
+  {
+    "title": "Learning Heuristics with Graph Neural Networks for Numeric Planning: A Preliminary Study",
+    "authors": "V Borelli, AE Gerevini, E Scala, I Serina",
+    "venue": "CEUR WORKSHOP PROCEEDINGS 3914, 2024",
+    "year": "2024",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:dTyEYWd-f8wC",
+    "profile_index": 98,
+    "full_title": "Learning Heuristics with Graph Neural Networks for Numeric Planning: A Preliminary Study",
+    "url": "https://ceur-ws.org/Vol-3914/short76.pdf",
+    "fields": {
+      "Authors": "Valerio Borelli, Alfonso Emilio Gerevini, Enrico Scala, Ivan Serina",
+      "Publication date": "2024",
+      "Journal": "CEUR WORKSHOP PROCEEDINGS",
+      "Volume": "3914",
+      "Publisher": "CEUR-WS"
+    }
+  },
+  {
+    "title": "Preface to the Italian Workshop on Planning and Scheduling, RCRA Workshop on Experimental evaluation of algorithms for solving problems with combinatorial explosion, and SPIRIT …",
+    "authors": "R De Benedictis, M Castiglioni, D Ferraioli, V Malvone, M Maratea, ...",
+    "venue": "CEUR Workshop Proceedings 3585, 1-N/A, 2023",
+    "year": "2023",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:AXPGKjj_ei8C",
+    "profile_index": 99,
+    "full_title": "Preface to the Italian Workshop on Planning and Scheduling, RCRA Workshop on Experimental evaluation of algorithms for solving problems with combinatorial explosion, and SPIRIT …",
+    "url": "https://ceur-ws.org/Vol-3585/preface.pdf",
+    "fields": {
+      "Authors": "Riccardo De Benedictis, Matteo Castiglioni, Diodato Ferraioli, Vadim Malvone, Marco Maratea, Enrico Scala, Luciano Serafini, Ivan Serina, Elisa Tosello, Alessandro Umbrico, Mauro Vallati",
+      "Publication date": "2023/12/11",
+      "Journal": "CEUR Workshop Proceedings",
+      "Volume": "3585",
+      "Pages": "1-N/A",
+      "Publisher": "CEUR-WS"
+    }
+  },
+  {
+    "title": "A Structure-Sensitive Translation from Hybrid to Numeric Planning",
+    "authors": "F Percassi, E Scala, M Vallati",
+    "venue": "International Conference of the Italian Association for Artificial …, 2023",
+    "year": "2023",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&cstart=100&pagesize=100&citation_for_view=lgfpklAAAAAJ:5ugPr518TE4C",
+    "profile_index": 100,
+    "full_title": "A Structure-Sensitive Translation from Hybrid to Numeric Planning",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-031-47546-7_8",
+    "fields": {
+      "Authors": "Francesco Percassi, Enrico Scala, Mauro Vallati",
+      "Publication date": "2023/11/2",
+      "Book": "International Conference of the Italian Association for Artificial Intelligence",
+      "Pages": "105-118",
+      "Publisher": "Springer Nature Switzerland"
+    }
+  },
+  {
+    "title": "Planning with PDDL3 Qualitative Constraints for Cost-Optimal Solutions Through Compilation",
+    "authors": "L Bonassi, E Scala, AE Gerevini",
+    "venue": "CEUR WORKSHOP PROCEEDINGS 3345, 2022",
+    "year": "2022",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&cstart=100&pagesize=100&citation_for_view=lgfpklAAAAAJ:BrmTIyaxlBUC",
+    "profile_index": 102,
+    "full_title": "Planning with PDDL3 Qualitative Constraints for Cost-Optimal Solutions Through Compilation",
+    "url": "https://ceur-ws.org/Vol-3345/paper4_3415.pdf",
+    "fields": {
+      "Authors": "Luigi Bonassi, Enrico Scala, Alfonso Emilio Gerevini",
+      "Publication date": "2022",
+      "Journal": "CEUR WORKSHOP PROCEEDINGS",
+      "Volume": "3345",
+      "Publisher": "CEUR-WS"
+    }
+  },
+  {
+    "title": "Additional Experiments for Flex-RR",
+    "authors": "E Scala, R Micalizio, P Torasso",
+    "venue": "",
+    "year": "2014",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&cstart=100&pagesize=100&citation_for_view=lgfpklAAAAAJ:35N4QoGY0k4C",
+    "profile_index": 104,
+    "full_title": "Additional Experiments for Flex-RR",
+    "url": "https://scholar.google.com/scholar?cluster=9133732155384146725&hl=en&oi=scholarr",
+    "fields": {
+      "Authors": "Enrico Scala, Roberto Micalizio, Pietro Torasso",
+      "Publication date": "2014/1/21"
+    }
+  },
+  {
+    "title": "STEPS (Sistemi e Tecnologie per l’EsPlorazione Spaziale): Predictive and Command System (PCS), results on 1st Demonstration",
+    "authors": "L Carlone, R Micalizio, G Nuzzolo, E Scala, D Tedone",
+    "venue": "Proceedings of the 40th International Conference on Environmental Systems, 1-17, 2010",
+    "year": "2010",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&cstart=100&pagesize=100&citation_for_view=lgfpklAAAAAJ:D03iK_w7-QYC",
+    "profile_index": 106,
+    "full_title": "STEPS (Sistemi e Tecnologie per l’EsPlorazione Spaziale): Predictive and Command System (PCS), results on 1st Demonstration",
+    "url": "https://iris.unibs.it/handle/11379/517150",
+    "fields": {
+      "Authors": "Luca Carlone, Roberto Micalizio, Giancarlo Nuzzolo, Enrico Scala, Domenico Tedone",
+      "Publication date": "2010",
+      "Book": "Proceedings of the 40th International Conference on Environmental Systems",
+      "Pages": "1-17",
+      "Publisher": "AIAA (American Institute of Aeronautics and Astronautics)"
+    }
+  },
+  {
+    "title": "On Translation-Based Approaches from Discrete PDDL+ to Numeric Planning",
+    "authors": "F Percassi, E Scala, M Vallati",
+    "venue": "",
+    "year": "",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&cstart=100&pagesize=100&citation_for_view=lgfpklAAAAAJ:sSrBHYA8nusC",
+    "profile_index": 107,
+    "full_title": "On Translation-Based Approaches from Discrete PDDL+ to Numeric Planning",
+    "url": "https://icaps22.icaps-conference.org/workshops/KEPS/KEPS-22_paper_3105.pdf",
+    "fields": {
+      "Authors": "Francesco Percassi, Enrico Scala, Mauro Vallati"
+    }
+  },
+  {
+    "title": "PDDL+ Grounding: Can We Take Advantage of Classical Planning Approaches?",
+    "authors": "E Scala, M Vallati",
+    "venue": "",
+    "year": "",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&cstart=100&pagesize=100&citation_for_view=lgfpklAAAAAJ:1sJd4Hv_s6UC",
+    "profile_index": 108,
+    "full_title": "PDDL+ Grounding: Can We Take Advantage of Classical Planning Approaches?",
+    "url": "https://plansig2020.wordpress.com/wp-content/uploads/2020/12/plansig_2020_paper_6.pdf",
+    "fields": {
+      "Authors": "Enrico Scala, Mauro Vallati"
+    }
+  },
+  {
+    "title": "3.30 Effective Hybrid Planners for robotics",
+    "authors": "E Scala",
+    "venue": "Planning and Robotics, 66, 0",
+    "year": "",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&cstart=100&pagesize=100&citation_for_view=lgfpklAAAAAJ:pqnbT2bcN3wC",
+    "profile_index": 109,
+    "full_title": "3.30 Effective Hybrid Planners for robotics",
+    "url": "https://drops.dagstuhl.de/storage/04dagstuhl-reports/volume07/issue01/DagRep.7.1/DagRep.7.1.pdf",
+    "fields": {
+      "Authors": "Enrico Scala",
+      "Journal": "Planning and Robotics",
+      "Pages": "66"
+    }
+  },
+  {
+    "title": "Planning for temporally extended goals in pure-past linear temporal logic",
+    "authors": "L Bonassi, G De Giacomo, M Favorito, F Fuggitti, AE Gerevini, E Scala",
+    "venue": "Artificial Intelligence, 104409, 2025",
+    "year": "2025",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=lgfpklAAAAAJ&pagesize=100&citation_for_view=lgfpklAAAAAJ:mvPsJ3kp5DgC",
+    "profile_index": 10,
+    "full_title": "Planning for temporally extended goals in pure-past linear temporal logic",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0004370225001286",
+    "fields": {
+      "Authors": "Luigi Bonassi, Giuseppe De Giacomo, Marco Favorito, Francesco Fuggitti, Alfonso Emilio Gerevini, Enrico Scala",
+      "Publication date": "2025/9/8",
+      "Journal": "Artificial Intelligence",
+      "Pages": "104409",
+      "Publisher": "Elsevier",
+      "Volume": "348"
+    }
+  }
+]
