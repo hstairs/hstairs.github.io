@@ -1,0 +1,477 @@
+[
+  {
+    "slug": "home",
+    "title": "Home",
+    "source": "https://sites.google.com/view/enricoscalashomepage/home",
+    "images": [
+      "home-0.jpg"
+    ],
+    "blocks": 22,
+    "links": [
+      {
+        "text": "enrico.scala@unibs.it",
+        "href": "mailto:enrico.scala@unibs.it"
+      },
+      {
+        "text": "enricos83@gmail.com",
+        "href": "mailto:enricos83@gmail.com"
+      },
+      {
+        "text": "ENHSP",
+        "href": "https://sites.google.com/view/enhsp/"
+      },
+      {
+        "text": "ARC Project",
+        "href": "https://cecs.anu.edu.au/research/research-projects/robust-ai-planning-hybrid-systems"
+      },
+      {
+        "text": "AIPLAN4EU",
+        "href": "https://www.aiplan4eu-project.eu/"
+      }
+    ]
+  },
+  {
+    "slug": "publications",
+    "title": "Publications",
+    "source": "https://sites.google.com/view/enricoscalashomepage/publications",
+    "images": [],
+    "blocks": 2,
+    "links": [
+      {
+        "text": "PDF",
+        "href": "https://www.jair.org/index.php/jair/article/view/13904"
+      },
+      {
+        "text": "Bibtex",
+        "href": "https://dblp.org/rec/journals/jair/PercassiSV23.html?view=bibtex"
+      },
+      {
+        "text": "PDF",
+        "href": "https://link.springer.com/chapter/10.1007/978-3-031-27181-6_12"
+      },
+      {
+        "text": "Bibtex",
+        "href": "https://dblp.org/rec/conf/aiia/ScalaMV22.html?view=bibtex"
+      },
+      {
+        "text": "PDF",
+        "href": "https://ieeexplore.ieee.org/abstract/document/9922231"
+      },
+      {
+        "text": "Bibtex",
+        "href": "https://dblp.org/rec/conf/itsc/BhatnagarGMMSV22.html?view=bibtex"
+      },
+      {
+        "text": "PDF",
+        "href": "https://proceedings.kr.org/2022/18/"
+      },
+      {
+        "text": "Bibtex",
+        "href": "https://proceedings.kr.org/2022/18/"
+      },
+      {
+        "text": "PDF",
+        "href": "https://ojs.aaai.org/index.php/SOCS/article/view/21797"
+      },
+      {
+        "text": "Bibtex",
+        "href": "https://dblp.org/rec/conf/socs/PercassiSV22.html?view=bibtex"
+      },
+      {
+        "text": "PDF",
+        "href": "https://ojs.aaai.org/index.php/ICAPS/article/download/19815/19574/23828"
+      },
+      {
+        "text": "Bibtex",
+        "href": "https://dblp.org/rec/conf/aips/SaettiS22.html?view=bibtex"
+      },
+      {
+        "text": "PDF",
+        "href": "https://www.sciencedirect.com/science/article/pii/S0004370222000261"
+      },
+      {
+        "text": "Bibtex",
+        "href": "https://dblp.org/rec/journals/ai/GiganteMMS22.html?view=bibtex"
+      },
+      {
+        "text": "PDF",
+        "href": "https://ojs.aaai.org/index.php/ICAPS/article/view/19812"
+      },
+      {
+        "text": "Bibtex",
+        "href": "https://dblp.org/rec/conf/aips/PercassiSV22.html?view=bibtex"
+      },
+      {
+        "text": "PDF",
+        "href": "https://www.ijcai.org/proceedings/2022/639"
+      },
+      {
+        "text": "Bibtex",
+        "href": "https://www.ijcai.org/proceedings/2022/bibtex/639"
+      },
+      {
+        "text": "PDF",
+        "href": "https://www.ijcai.org/proceedings/2022/634"
+      },
+      {
+        "text": "Bibtex",
+        "href": "https://www.ijcai.org/proceedings/2022/bibtex/634"
+      },
+      {
+        "text": "PDF",
+        "href": "https://icaps21.icaps-conference.org/workshops/KEPS/Papers/KEPS_2021_paper_4.pdf"
+      },
+      {
+        "text": "Bibtex",
+        "href": "https://dblp.org/rec/conf/icaart/BhatnagarMSMMV22.html?view=bibtex"
+      },
+      {
+        "text": "PDF",
+        "href": "https://www.tandfonline.com/doi/full/10.1080/0952813X.2021.1970239"
+      },
+      {
+        "text": "PDF",
+        "href": "https://ieeexplore.ieee.org/abstract/document/9564838"
+      },
+      {
+        "text": "Bibtex",
+        "href": "https://dblp.org/rec/conf/itsc/VallatiSC21.html?view=bibtex"
+      },
+      {
+        "text": "PDF",
+        "href": "https://ojs.aaai.org/index.php/ICAPS/article/view/15974"
+      },
+      {
+        "text": "Bibtex",
+        "href": "https://dblp.org/rec/conf/aips/ScalaG21.html?view=bibtex"
+      },
+      {
+        "text": "PDF",
+        "href": "https://ojs.aaai.org/index.php/ICAPS/article/view/15945"
+      },
+      {
+        "text": "Bibtex",
+        "href": "https://dblp.org/rec/conf/aips/BonassiGPS21.html?view=bibtex"
+      },
+      {
+        "text": "PDF",
+        "href": "https://ojs.aaai.org/index.php/ICAPS/article/view/15969"
+      },
+      {
+        "text": "Bibtex",
+        "href": "https://dblp.org/rec/conf/aips/PercassiSV21.html?view=bibtex"
+      },
+      {
+        "text": "Link",
+        "href": "https://www.cambridge.org/core/journals/knowledge-engineering-review/article/effective-grounding-for-hybrid-planning-problems-represented-in-pddl/13CA2B3897A8689998239947BE5E91E9"
+      },
+      {
+        "text": "Bibtex",
+        "href": "https://dblp.org/rec/journals/ker/ScalaV21.html?view=bibtex"
+      },
+      {
+        "text": "Link",
+        "href": "https://www.jair.org/index.php/jair/article/view/11875"
+      },
+      {
+        "text": "Software and benchmarks",
+        "href": "https://gitlab.com/enricos83/journals_code_benchmarks"
+      },
+      {
+        "text": "PDF",
+        "href": "https://drive.google.com/open?id=139t2mF9qu7MwYPdygDy76LC8nppom837"
+      },
+      {
+        "text": "PDF",
+        "href": "https://drive.google.com/open?id=1L-ZAAIU_JUhye64r5tpJFoV4PrcgInL-"
+      },
+      {
+        "text": "Link",
+        "href": "https://www.sciencedirect.com/science/article/abs/pii/S000437022030031X?via%3Dihub#!"
+      },
+      {
+        "text": "Software and benchmarks",
+        "href": "https://gitlab.com/enricos83/journals_code_benchmarks"
+      },
+      {
+        "text": "PDF",
+        "href": "https://drive.google.com/open?id=1ofrNM3XMgKfY3ejopz1PPZkZJ2UNB8A2"
+      },
+      {
+        "text": "PDF",
+        "href": "https://drive.google.com/open?id=1wfMX2OoCbqxPIW8DRU15jVAtYsC-rwCz"
+      },
+      {
+        "text": "PDF",
+        "href": "https://drive.google.com/open?id=1BxbW5W7C9f2nkvsyuDnp9YRA9kCSg2v2"
+      },
+      {
+        "text": "PDF",
+        "href": "https://www.aaai.org/ojs/index.php/AAAI/article/view/4762/4640"
+      },
+      {
+        "text": "Bibtex",
+        "href": "https://dblp.org/rec/bib0/conf/aaai/MicheliS19.bib"
+      },
+      {
+        "text": "PDF",
+        "href": "https://content.iospress.com/articles/intelligenza-artificiale/ia116"
+      },
+      {
+        "text": "Bibtex",
+        "href": "https://dblp.org/rec/bib0/journals/ia/ConsoleMMSDT18.bib"
+      },
+      {
+        "text": "PDF",
+        "href": "https://dl.acm.org/citation.cfm?id=3237896"
+      },
+      {
+        "text": "Bibtex",
+        "href": "https://dblp.org/rec/bib0/conf/atal/RamirezPLBMPSZ18.bib"
+      },
+      {
+        "text": "PDF",
+        "href": "http://www.hstairs.com/www.ijcai.org/proceedings/2018/0665.pdf"
+      },
+      {
+        "text": "Bibtex",
+        "href": "https://dblp.org/rec/bib0/conf/ijcai/LiSHB18.bib"
+      },
+      {
+        "text": "PDF",
+        "href": "https://aaai.org/ocs/index.php/ICAPS/ICAPS18/paper/view/17750"
+      },
+      {
+        "text": "Bibtex",
+        "href": "https://dblp.org/rec/bib0/conf/aips/GrastienS18.bib"
+      },
+      {
+        "text": "PDF",
+        "href": "https://www.ijcai.org/proceedings/2017/0603.pdf"
+      },
+      {
+        "text": "Bibtex",
+        "href": "https://dblp.org/rec/bib0/conf/ijcai/GrastienS17.bib"
+      },
+      {
+        "text": "PDF",
+        "href": "http://www.ijcai.org/proceedings/2017/0612.pdf"
+      },
+      {
+        "text": "Bibtex",
+        "href": "https://dblp.org/rec/bib0/conf/ijcai/ScalaHMT17.bib"
+      },
+      {
+        "text": "PDF",
+        "href": "http://ebooks.iospress.nl/publication/44811"
+      },
+      {
+        "text": "Bibtex",
+        "href": "http://www.hstairs.com/bibtex_file/ScalaHTR16_2.bib"
+      },
+      {
+        "text": "PDF",
+        "href": "http://www.ijcai.org/Abstract/16/457"
+      },
+      {
+        "text": "Bibtex",
+        "href": "http://www.hstairs.com/bibtex_file/ScalaHT16.bib"
+      },
+      {
+        "text": "PDF",
+        "href": "http://www.aaai.org/ocs/index.php/ICAPS/ICAPS16/paper/view/13177"
+      },
+      {
+        "text": "Bibtex",
+        "href": "http://www.hstairs.com/bibtex_file/ScalaHTR16.bib"
+      },
+      {
+        "text": "PDF",
+        "href": "http://ijcai.org/papers15/Papers/IJCAI15-239.pdf"
+      },
+      {
+        "text": "Bibtex",
+        "href": "http://www.hstairs.com/bibtex_file/ScalaT15.bib"
+      },
+      {
+        "text": "PDF",
+        "href": "http://www.hstairs.com/"
+      },
+      {
+        "text": "Bibtex",
+        "href": "http://www.hstairs.com/bibtex_file/ChrpaSV15.bib"
+      },
+      {
+        "text": "Bibtex",
+        "href": "http://www.hstairs.com/bibtex_file/CaffMS14.bib"
+      },
+      {
+        "text": "PDF",
+        "href": "http://ebooks.iospress.nl/publication/37037"
+      },
+      {
+        "text": "Bibtex",
+        "href": "http://www.hstairs.com/bibtex_file/ScalaT14.bib"
+      },
+      {
+        "text": "PDF",
+        "href": "http://icaps14.icaps-conference.org/proceedings/planrob/PlanRob2014_Proceedings.pdf"
+      },
+      {
+        "text": "PDF",
+        "href": "http://iospress.metapress.com/content/kk48145w52x27m98/"
+      },
+      {
+        "text": "PDF",
+        "href": "http://www.aaai.org/ocs/index.php/ICAPS/ICAPS14/paper/view/7900/8037"
+      },
+      {
+        "text": "Bibtex",
+        "href": "http://www.hstairs.com/bibtex_file/Scala14.bib"
+      },
+      {
+        "text": "PDF",
+        "href": "http://www.hstairs.com/Papers/icaart14.pdf"
+      },
+      {
+        "text": "Bibtex",
+        "href": "http://www.hstairs.com/bibtex_file/ScalaMT14.bib"
+      },
+      {
+        "text": " PDF ",
+        "href": "http://link.springer.com/chapter/10.1007/978-3-319-03524-6_23"
+      },
+      {
+        "text": "Bibtex",
+        "href": "http://www.hstairs.com/bibtex_file/Scala13.bib"
+      },
+      {
+        "text": "IPS website",
+        "href": "http://ips2013.istc.cnr.it/"
+      },
+      {
+        "text": "PDF",
+        "href": "http://robotics.estec.esa.int/i-SAIRAS/isairas2012/i-SAIRAS2012.pdf"
+      },
+      {
+        "text": "PDF",
+        "href": "http://www.esa.int/gsp/ACT/publications/ActaFutura/AF_semantic.htm"
+      },
+      {
+        "text": "PDF",
+        "href": "http://link.springer.com/chapter/10.1007/978-3-642-23954-0_16"
+      },
+      {
+        "text": "PDF",
+        "href": "http://link.springer.com/chapter/10.1007/978-3-642-15286-3_2"
+      },
+      {
+        "text": "PDF",
+        "href": "https://www.aiaa.org/PubDetail.aspx?id=3740"
+      },
+      {
+        "text": "PDF",
+        "href": "http://robotics.estec.esa.int/i-SAIRAS/isairas2010/i-SAIRAS2010.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "students-projects",
+    "title": "Students Projects",
+    "source": "https://sites.google.com/view/enricoscalashomepage/students-projects",
+    "images": [],
+    "blocks": 29,
+    "links": []
+  },
+  {
+    "slug": "funded-projects",
+    "title": "Funded Projects",
+    "source": "https://sites.google.com/view/enricoscalashomepage/funded-projects",
+    "images": [],
+    "blocks": 2,
+    "links": [
+      {
+        "text": "AIPLAN4EU",
+        "href": "https://www.aiplan4eu-project.eu/"
+      },
+      {
+        "text": "Github",
+        "href": "https://github.com/aiplan4eu"
+      },
+      {
+        "text": "Demo at ICAPS-22",
+        "href": "https://slideslive.com/38984509/unified-planning-a-python-library-making-planning-technology-accessible"
+      }
+    ]
+  },
+  {
+    "slug": "tools-software-and-experiments",
+    "title": "Tools, Software and Experiments",
+    "source": "https://sites.google.com/view/enricoscalashomepage/tools-software-and-experiments",
+    "images": [],
+    "blocks": 1,
+    "links": [
+      {
+        "text": "CPCES",
+        "href": "https://drive.google.com/open?id=1HeiERbRvxS6nzSwQCHHU_UrrDcerfYN_"
+      },
+      {
+        "text": "Here",
+        "href": "https://drive.google.com/open?id=1HeiERbRvxS6nzSwQCHHU_UrrDcerfYN_"
+      },
+      {
+        "text": "bitbucket",
+        "href": "https://bitbucket.org/enricode/cpces"
+      },
+      {
+        "text": "SpringRoll ",
+        "href": "https://gitlab.com/enricos83/SMT-Hybrid-Planner-public"
+      },
+      {
+        "text": "ENHSP ",
+        "href": "https://sites.google.com/view/enhsp/"
+      },
+      {
+        "text": "PPMaJaL - A Java library for parsing and handling PDDL 2.1 Problem and Domain. The Planning Domain Definition Language (PDDL) is a formalism for representing domain independent planning problem. (I am working on the GPL-license issues, if interested contact me at my e-mail address)",
+        "href": "https://gitlab.com/enricos83/PPMAJAL-Expressive-PDDL-Java-Library"
+      },
+      {
+        "text": " KernelCasi",
+        "href": "https://drive.google.com/open?id=1x43DLr0oB09CRplvlpI3l6In78f2ybut"
+      },
+      {
+        "text": "Numeric Kernel for Reasoning About Plans Involving Numeric Fluents",
+        "href": "https://drive.google.com/open?id=1QaU6-iBTzUJoMihfrj5E271O05tvp2Pw"
+      },
+      {
+        "text": "Experiments",
+        "href": "https://drive.google.com/open?id=1EXt0ChLsK8XalKYpmpnWtsTD4zl4oKJE"
+      },
+      {
+        "text": "Click here",
+        "href": "http://www.hstairs.com/Colin_Jopa.png"
+      }
+    ]
+  },
+  {
+    "slug": "studies",
+    "title": "Studies",
+    "source": "https://sites.google.com/view/enricoscalashomepage/studies",
+    "images": [],
+    "blocks": 4,
+    "links": [
+      {
+        "text": "PDF",
+        "href": "http://www.hstairs.com/PHDThesis_FINAL.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "things-to-do-in-milan",
+    "title": "Things to do in Milan",
+    "source": "https://sites.google.com/view/enricoscalashomepage/things-to-do-in-milan",
+    "images": [],
+    "blocks": 0,
+    "links": []
+  }
+]
