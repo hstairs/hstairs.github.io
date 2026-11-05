@@ -1,19 +1,26 @@
 """Build static HTML and a self-contained Google Sites embed. Python stdlib only."""
 from pathlib import Path
 import base64, html, json, re, sys
+from datetime import datetime
 sys.path.insert(0,str(Path(__file__).resolve().parent))
 from capture_source import Parser, render
 
 ROOT=Path(__file__).resolve().parent.parent
 PAGES=json.loads((ROOT/'content/manifest.json').read_text())
 OUT=ROOT/'public'
+def news_content():
+    items=json.loads((ROOT/'content/news.json').read_text())
+    items=sorted(items,key=lambda item:datetime.strptime(item['date'],'%B %Y'),reverse=True)
+    def listing(entries):
+        return '<ul class="news-list">'+''.join('<li><time datetime="'+datetime.strptime(item['date'],'%B %Y').strftime('%Y-%m')+'">'+html.escape(item['date'])+'</time><span>'+html.escape(item['text'])+'</span></li>' for item in entries)+'</ul>'
+    return '<section class="news-panel" aria-labelledby="news-title"><h2 id="news-title">News</h2>'+listing(items[:6])+'<details><summary>Earlier news ('+str(len(items[6:]))+')</summary>'+listing(items[6:])+'</details></section>'
 def page_content(page):
     slug=page['slug']; text=(ROOT/f'content/{slug}.html').read_text()
     if slug=='home':
         # Keep the exact content, moving contact details below the biography.
         pos=text.index('<h2>About Me')
         contact=text[:pos];text=text[pos:]
-        text += '<aside class="contact">'+contact+'</aside>'
+        text = news_content()+text+'<aside class="contact">'+contact+'</aside>'
     else:
         # The page title takes the place of an identical imported first heading.
         text=re.sub(r'^<h2>'+re.escape(html.escape(page['title']))+r'</h2>\s*','',text)

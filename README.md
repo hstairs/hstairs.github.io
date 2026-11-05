@@ -2,7 +2,7 @@
 
 This is a static rebuild of https://sites.google.com/view/enricoscalashomepage/,
 captured on 5 November 2026. It preserves all seven public pages, your portrait,
-56 publication entries, original links, and the two publication correction notes.
+56 publication entries, 26 news items, original links, and the two publication correction notes.
 The original site's Milan page is empty; its new page retains the title.
 The new design uses local fonts, a sidebar, readable typography, and responsive CSS.
 No web framework, server application, analytics, or external font service is needed.
@@ -12,7 +12,7 @@ No web framework, server application, analytics, or external font service is nee
 - `public/`: complete standalone website. Open `public/index.html` to view it.
 - `google-sites/embed.html`: self-contained version for pasting into Google Sites;
   CSS, JavaScript and the portrait are included in the file.
-- `content/`: editable content, one HTML fragment per page.
+- `content/`: editable content, one HTML fragment per page; `news.json` holds the news.
 - `source-snapshot/`: original downloaded HTML for comparison; not for hosting.
 - `scripts/build.py`: generates both versions using Python 3, standard library only.
 - `scripts/verify.py`: checks source text and link preservation and local assets.
@@ -108,7 +108,8 @@ https://scholar.google.com/intl/en/scholar/help.html
 
 The publication and project descriptions, including older dates, “to appear”
 statuses and original spelling, are retained as supplied. The existing site's
-Google search, cookie banner, tracking code, site logo, and blank custom embed
-were not carried over as website content. Existing external destinations have
+Google search, cookie banner, tracking code, and site logo
+were not carried over as website content. The embedded News block is restored as
+native static HTML, with the six latest updates and an expandable archive. Existing external destinations have
 been retained verbatim; they were not all checked for continued availability.
 Nothing has been published or modified on your live Google Site.

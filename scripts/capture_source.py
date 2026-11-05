@@ -52,11 +52,27 @@ def extract(root):
    if isinstance(c,Node):visit(c)
  for section in (n for n in root.walk() if n.tag=='section'):visit(section)
  return blocks
+def extract_news(root):
+ """Google Sites stores this content in data-code, outside the page text tree."""
+ items=[]
+ for node in root.walk():
+  code=node.attrs.get('data-code','')
+  if not code:continue
+  embedded=Parser();embedded.feed(code)
+  if not any(n.tag.startswith('h') and n.text().strip()=='News' for n in embedded.root.walk()):continue
+  for item in embedded.root.walk():
+   if item.tag!='li':continue
+   date=next((n.text().strip() for n in item.walk() if n.attrs.get('class')=='date'),'')
+   text=item.text().strip()
+   if date:items.append({'date':date,'text':text[len(date):].lstrip(' -')})
+ return items
 if __name__=='__main__':
  manifest=[]
  for slug,title in PAGES:
   raw=urlopen(BASE+slug).read();Path('source-snapshot/'+slug+'.html').write_bytes(raw)
   parser=Parser();parser.feed(raw.decode())
+  if slug=='home':
+   Path('content/news.json').write_text(json.dumps(extract_news(parser.root),indent=2,ensure_ascii=False))
   blocks=extract(parser.root)
   content='\n'.join(render(n) for n in blocks)
   Path('content/'+slug+'.html').write_text(content)

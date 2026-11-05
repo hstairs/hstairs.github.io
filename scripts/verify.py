@@ -1,9 +1,9 @@
 """Verify migrated text and links against the captured public source."""
 from collections import Counter
 from pathlib import Path
-import re, sys
+import re, sys, json
 sys.path.insert(0,str(Path(__file__).resolve().parent))
-from capture_source import Parser, extract, PAGES
+from capture_source import Parser, extract, extract_news, PAGES
 ROOT=Path(__file__).resolve().parent.parent
 def parse(path):
     p=Parser();p.feed(path.read_text());return p.root
@@ -33,3 +33,10 @@ for slug,title in PAGES:
             assert (ROOT/'public'/url.split('#')[0]).exists(),('missing local target',url)
     print('PASS',slug,'text, links, local assets')
 print(f'PASS: all seven pages and {total} original content links preserved.')
+news=json.loads((ROOT/'content/news.json').read_text())
+assert news==extract_news(parse(ROOT/'source-snapshot/home.html')),'Missing or changed original news'
+homepage=parse(ROOT/'public/index.html')
+for item in news:
+    assert norm(item['text']) in norm(homepage.text()),('Missing news',item)
+assert sum(n.tag=='time' for n in homepage.walk())==len(news)
+print(f'PASS: all {len(news)} original embedded news items restored.')
