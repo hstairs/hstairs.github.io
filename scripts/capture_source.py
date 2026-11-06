@@ -3,6 +3,7 @@ from pathlib import Path
 from urllib.request import urlopen
 from html.parser import HTMLParser
 import html, json, re
+from sanitize_snapshot import sanitize_snapshot
 BASE='https://sites.google.com/view/enricoscalashomepage/'
 PAGES=[('home','Home'),('publications','Publications'),('students-projects','Students Projects'),('funded-projects','Funded Projects'),('tools-software-and-experiments','Tools, Software and Experiments'),('studies','Studies'),('things-to-do-in-milan','Things to do in Milan')]
 VOID={'img','br','hr','input','meta','link','source','wbr','area','base','embed','param','col','track'}
@@ -69,7 +70,7 @@ def extract_news(root):
 if __name__=='__main__':
  manifest=[]
  for slug,title in PAGES:
-  raw=urlopen(BASE+slug).read();Path('source-snapshot/'+slug+'.html').write_bytes(raw)
+  raw=sanitize_snapshot(urlopen(BASE+slug).read());Path('source-snapshot/'+slug+'.html').write_bytes(raw)
   parser=Parser();parser.feed(raw.decode())
   if slug=='home':
    Path('content/news.json').write_text(json.dumps(extract_news(parser.root),indent=2,ensure_ascii=False))

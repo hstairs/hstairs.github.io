@@ -19,9 +19,12 @@ No web framework, server application, analytics, or external font service is nee
 - `content/`: editable content, one HTML fragment per page; `news.json` holds the news.
   `publications-added.json` holds the added bibliography records and links;
   `bibliography-review.json` documents coverage and duplicate decisions.
-- `source-snapshot/`: original downloaded HTML for comparison; not for hosting.
+- `source-snapshot/`: content snapshots for comparison, with Google's runtime
+  scripts and API keys removed; not for hosting.
 - `scripts/build.py`: generates both versions using Python 3, standard library only.
 - `scripts/verify.py`: checks source text and link preservation and local assets.
+- `scripts/check_secrets.py`: checks tracked files for credential patterns without
+  printing matched values. This check runs before deployment.
 
 ## Publish using Google Sites
 
