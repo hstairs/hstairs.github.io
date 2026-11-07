@@ -93,8 +93,8 @@ python3 scripts/verify.py
 python3 -m http.server 8000 --bind 127.0.0.1 --directory public
 ```
 
-Open http://127.0.0.1:8000/. The verification script compares against the original
-snapshot, so intentional text changes will require reviewing/updating that check.
+Open http://127.0.0.1:8000/. The verification script checks revised pages against current content and
+untouched pages against the original snapshot, including local links and embed routes.
 Do not rerun `capture_source.py` after editing local content: it refreshes the
 snapshot and overwrites the content fragments from the old live Google Site.
 
@@ -123,7 +123,7 @@ https://scholar.google.com/intl/en/scholar/help.html
 
 ## Migration notes
 
-The original publication and project descriptions, including older dates, “to appear”
+The original publication descriptions, including older dates, “to appear”
 statuses and original spelling, are retained as supplied. New records use the
 reviewed bibliography metadata described above. The existing site's
 Google search, cookie banner, tracking code, and site logo
@@ -131,3 +131,29 @@ were not carried over as website content. The embedded News block is restored as
 native static HTML, with the six latest updates and an expandable archive. Existing external destinations have
 been retained verbatim; they were not all checked for continued availability.
 Nothing has been published or modified on your live Google Site.
+
+## Homepage content review — 6 November 2026
+
+The homepage now presents four research directions, including action-model
+learning and neurosymbolic planning with GNNs, with links to the existing
+bibliography. LeapNP remains in the full bibliography and is not featured on the
+homepage. Project descriptions and roles were reconciled with the CV in the
+Amazon proposal project; RCRA and OVERLAY are listed as scientific activities.
+Project-to-paper links describe documented outputs or motivations, rather than
+inferring funding from a paper's topic.
+
+Supervision names were checked against that CV and university notifications and
+working correspondence in email. Davide Leone and Simona Rusmini have ongoing
+supervision documented in October–November 2026. Other lists describe supervision
+without inferring graduation from a scheduled defence or a thesis approval.
+Degree categories are used only where documented; the combined list avoids
+guessing missing degree information. Private email content, student contact
+details, student numbers and administrative documents are not included here.
+
+Internal links in the embed use `#page/anchor` routes (for example,
+`#publications/scholar-60`), while standalone pages use normal HTML links.
+Opening a citation clears a publication filter if it would hide the target.
+The verification script checks current source content, local anchors, embed
+parity and routes, and continues checking untouched pages and bibliography
+against the migration snapshot. No publication or deployment is performed by
+the local build.

@@ -48,9 +48,10 @@ git commit -m "Update website content"
 git push
 ```
 
-La verifica di migrazione `python3 scripts/verify.py` confronta il testo con il
-vecchio sito: dopo modifiche intenzionali del contenuto può segnalare differenze.
-Per questo non viene usata per bloccare gli aggiornamenti nel workflow.
+La verifica `python3 scripts/verify.py` controlla i contenuti revisionati, i link
+e le ancore locali e la corrispondenza con l’embed. Le pagine non modificate e
+la bibliografia vengono ancora confrontate con gli snapshot originali.
+Eseguirla dopo la ricostruzione prima di preparare una pubblicazione.
 
 ## Collegamento di hstairs.com
 

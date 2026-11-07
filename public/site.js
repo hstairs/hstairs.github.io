@@ -15,4 +15,15 @@ document.querySelectorAll('[data-publication-search]').forEach(input => {
   input.addEventListener('input', update);
   input.parentElement.hidden = false;
   update();
+  // A citation reached through history must remain visible after filtering.
+  const revealAnchor = () => {
+    const entry = entries.find(entry => `#${entry.id}` === location.hash);
+    if (entry && entry.hidden) {
+      input.value = '';
+      update();
+      entry.scrollIntoView();
+    }
+  };
+  window.addEventListener('hashchange', revealAnchor);
+  revealAnchor();
 });

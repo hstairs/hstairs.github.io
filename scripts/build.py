@@ -46,7 +46,7 @@ def bibliography_content():
 def page_content(page):
     slug=page['slug']; text=(ROOT/f'content/{slug}.html').read_text()
     if slug=='home':
-        # Keep the exact content, moving contact details below the biography.
+        # Move contact details below the biography and research sections.
         pos=text.index('<h2>About Me')
         contact=text[:pos];text=text[pos:]
         text = news_content()+text+'<aside class="contact">'+contact+'</aside>'
@@ -80,9 +80,36 @@ def main():
         name='index' if p['slug']=='home' else p['slug']
         body='<div class="layout">'+nav(p['slug'])+'<main id="main"><section>'+heading(p)+'<div class="prose">'+page_content(p)+'</div></section><footer class="footer">Enrico Scala · University of Brescia</footer></main></div>'
         (OUT/f'{name}.html').write_text(shell(p['title'],body))
-    panels=''.join('<section class="embed-panel" id="'+p['slug']+'">'+heading(p,True)+'<div class="prose">'+page_content(p)+'</div></section>' for p in PAGES)
+    # Route local page links inside the self-contained embed, including citations.
+    routes={('index' if p['slug']=='home' else p['slug'])+'.html':p['slug'] for p in PAGES}
+    def embed_links(markup):
+        def replace(match):
+            path,sep,anchor=match[1].partition('#')
+            if path not in routes:return match[0]
+            return 'href="#'+routes[path]+('/'+anchor if anchor else '')+'"'
+        return re.sub(r'href="([^"]+)"',replace,markup)
+    panels=''.join('<section class="embed-panel" id="'+p['slug']+'">'+heading(p,True)+'<div class="prose">'+embed_links(page_content(p))+'</div></section>' for p in PAGES)
     tabs='''<script>
-function showPage(){const key=location.hash.slice(1)||'home';const target=document.getElementById(key);if(!target||!target.classList.contains('embed-panel'))return;document.querySelectorAll('.embed-panel').forEach(p=>p.hidden=p!==target);document.querySelectorAll('.sidebar nav a').forEach(a=>{if(a.getAttribute('href')==='#'+key)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current')});document.title=target.querySelector('h1').textContent+' | Enrico Scala'}
+function showPage(){
+  const [key, anchor] = (location.hash.slice(1)||'home').split('/');
+  const target=document.getElementById(key);
+  if(!target||!target.classList.contains('embed-panel'))return;
+  const changed=target.hidden;
+  document.querySelectorAll('.embed-panel').forEach(p=>p.hidden=p!==target);
+  document.querySelectorAll('.sidebar nav a').forEach(a=>{
+    if(a.getAttribute('href')==='#'+key)a.setAttribute('aria-current','page');
+    else a.removeAttribute('aria-current');
+  });
+  document.title=target.querySelector('h1').textContent+' | Enrico Scala';
+  const entry=anchor?document.getElementById(anchor):null;
+  if(entry&&target.contains(entry)){
+    if(entry.hidden){
+      const search=target.querySelector('[data-publication-search]');
+      if(search){search.value='';search.dispatchEvent(new Event('input'));}
+    }
+    entry.scrollIntoView();
+  }else if(changed){window.scrollTo(0,0);}
+}
 window.addEventListener('hashchange',showPage);showPage();
 </script>'''
     body='<div class="layout">'+nav('home',True)+'<main id="main">'+panels+'<footer class="footer">Enrico Scala · University of Brescia</footer></main></div>'
